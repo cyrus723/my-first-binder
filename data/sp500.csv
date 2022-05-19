@@ -1,5 +1,4 @@
 ﻿Symbol,Name,beta,roe,de,pe,ps,pfcf,mv,gm,gsales,altman,pvol,cap_s,dy,cr,cur,naics,eps,growth_capitalexp,gics_ind,fs_sec,gics_sec
-,,,,,,,,,,,,,,,,,,,,,,
 MMM,3M Company,0.9,42.4,121.7,17.6,2.9,17.8,"101,576.9",47.0,9.9,4.7,6.1,4.5,3.3,0.5,1.7,31,10.1,0.1,Capital Goods,Producer Manufacturing,Industrials
 AOS,A. O. Smith Corporation,1.1,26.5,12.6,28.4,3.9,24.5,"13,534.5",37.1,22.2,7.9,9.1,2.1,1.2,0.6,1.6,31,3.0,0.0,Capital Goods,Producer Manufacturing,Industrials
 ABT,Abbott Laboratories,0.8,20.5,53.8,35.8,5.8,29.1,"248,276.9",53.9,24.5,5.5,6.3,4.4,1.3,0.8,1.8,31,3.9,0.0,Health Care Equipment & Services,Health Technology,Health Care
