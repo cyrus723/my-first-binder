@@ -1,0 +1,246 @@
+Participants
+CORPORATE PARTICIPANTS
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+OTHER PARTICIPANTS
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+Management Discussion Section
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+All right. We are going to go ahead and get started. I'm Doug Anmuth, JPMorgan's Internet analyst. We're pleased to have with us Peloton, President and CEO, Barry McCarthy. So Peloton is the leading interactive fitness platform in the world with a loyal community of more than 7 million members across the US, UK, Canada, Germany and Australia. The company pioneered connected, technology-enabled fitness and the streaming of immersive, instructor-led boutique classes for its members anytime, anywhere. Barry joined Peloton just over three months ago. He was CFO of Netflix from 1999 to 2010 and CFO of Spotify from 2015 to 2020. He's been a consultant to TCV and on the boards of a handful of companies across the tech sector. Welcome, Barry.
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Thanks Doug. Nice to be here. Thank you all for coming. Good morning.
+
+Question And Answer Section
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+All right. So kicking off, you've had a successful career in the online subscription space for nearly 20 years. Netflix, Spotify, on the boards of others. What did you find most compelling about Peloton to make you want to get back in the game?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Well, I wanted to get back in the game independent of Peloton, just to be clear. But what I found compelling about Peloton was the user experience. So in my career, my observation is the hardest thing to find is product market fit, and the company had that in spades, right. The net promoter score for its Bike and its Tread are just off the charts. And try as they might to screw that up. Once you have it it's hard to lose. And one, two, the challenges the business faced was primarily on the spending side, and I thought there were opportunities to right size that and then to lean into the customer love and reinvigorate growth coming out of COVID once you could normalize against post COVID numbers.
+
+And so, I think it's a reasonable expectation to imagine that revenues would grow on a year-over-year basis, on a normalized basis, north of 20%. And that the company can get back to positive cash flow in FY 2023. That's certainly my goal for the business. And so those are the – and if we're able to accomplish those two objectives, then I think we will have largely fixed what's broken. And then it's about capitalizing on the customer love and broadening the product portfolio and the different channels to market and international growth in order to drive future success.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+Okay. So we'll hit on all those things. In the recent shareholder letter, you talked about the goal of reaching 100 million members over time or about half the number of global gym memberships. Obviously, a long way from that 7 million members that you have now. How do you think TAM and SAM has kind of changed now on the other side of the pandemic?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Yeah. Well, we're laughably far from that, right. But imagining a future of that scale, I think, is enormously helpful if you're trying to get the management team to rethink the go-to-market strategy and the product strategy. And so if you were to get to 100 million, how would you have to evolve the business? Well, certainly you would think differently about how you lean into growth with the digital app and the strategic role of digital app and the role of the digital app in the marketing funnel today, it's kind of an afterthought and it's kind of 1 million users independent of all access. And it probably means to live somewhere up at the top of the marketing funnel in some kind of a premium offer. And it certainly unlocks international opportunities that don't currently exist so long as we're wedded to hardware, just by way of example of the benefit of trying to think more broadly about what the scale of the opportunity could be. And then if it's largely a digital app like product that's and a $10 or $12 price point, that's a very different available market than a $2,000 piece of hardware that's got to be installed in your home before you can use it.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+Okay. All right, we'll hit digital app. Let me – let's talk about the three areas of focus, right, that you outlined a couple of weeks ago. You talked about kind of these areas for your first three months, so stabilizing cash flow, optimizing talent and returning to growth. So let's talk about the progress in each of those areas and maybe start with cash flow. You burned nearly $750 million in cash in fiscal 3Q, but you're committed to becoming free cash flow positive, which you just said again during fiscal 2023, help us bridge from where you are now to achieving that kind of milestone, what are the key components?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Yeah. I mean, $700 million of free cash burn, how is that even possible, you have to ask yourself. I mean, that is a shockingly big number, certainly unsustainable and that's the bad news. The good news is we paid for a lot of inventory that we had already received. And eventually that headwind becomes a tailwind.
+
+And in order for that to happen, you've got to manage the supply chain more effectively than it had been managed – was being managed when I walked in the door. And in order to do that, you needed an infusion of talent. And the first senior hire I made for the business, Andy Rendich, who I had worked with at Netflix and [indiscernible] (00:06:20) and he's already taking important steps to manage that piece of the business more effectively.
+
+And I think we've got more visibility into what's happening there than we had previously and are better able to manage outcomes than we had previously, which gives me considerably more confidence in what's happening in that side of the business than I had when we walked – when I walked in the door anyway.
+
+So it had been a big source of working capital usage in our current calendar year FY 2022 and becomes a source of working capital in FY 2023 and is an important contributor to moving the business from consuming cash to generating cash in the back half of the year, if we're going to be able to accomplish it, it will be because we have got our arms around inventory and are working our way through the abundant supply that we currently have.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+So what are those big things like if you were to say the three things Andy really has to tackle within supply chain, for example? What are those that really change the dynamic?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Well, I guess what I'd like you to know is we're mostly -- we're managing a hangover. But we stopped drinking. So there was the expectation that COVID was a new normal and they were selling everything they could land in the country. And they ordered more. And the world changed. And we needed less. But it takes a while for less to find its way into the supply chain. So, the good news is and I think it's very good news, inventory has a long life. It's not like it has diminished value because it's sitting on the balance sheet. It's a pain in the ass to deal with because we spent a lot of money to store a lot of Bikes and Treads. And the -- but the good news is once we sell them out of inventory, all those stores costs we're paying become a source of P&L savings and operating leverage for us. So the path to get to the other side is pretty clear. It just takes time to get there, we'll get there.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+Okay. Part of that path to get to the other side is obviously realigning this spending and revenue. So you're looking to take out $800 million in annual cost by fiscal 2024, $500 million in OpEx, $300 million through connected fitness COGS. What are the key components here? How do you get the confidence in being able to achieve those kind of savings?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Yeah. Well, most of the OpEx savings has been identified. And -- so I'm pretty confident about that. I'm saying most of the $500 million. So the -- and the biggest components of that are outside services, which are in G&A. And a big component that has been legal, mostly litigation related in various forms, some of it IP plus everything else and there has been a lot of everything else. And about half of it, it was marketing and the marketing savings are already in process, so I'm pretty confident about that. The $300 million in COGS, we won't see most of it until the world gets back to a more normal place. And so the cost of shipping returns to normal. We stopped paying penalties, because we can't get containers off the docks, drayage, that kind of thing. We used to spend like $200, $250 of shipping all-in on a piece of hardware.
+
+Today, it's like north of $900, and it's – it has – mostly has to do with the economy and not much with the particulars of our business. So the world gets back to normal, our cost structure will change quite dramatically. But until it does, that will continue to be a pain point for us. So we just have to manage it as best we can.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+And how do you manage in there between first-party delivery and third-party delivery? There has clearly been the shift where you built out too much on first party. Seeing the mix go towards third party, how do you – what's the right the optimal mix kind of over time? And how do you make sure that you don't sacrifice quality and experience for users?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Well, we definitely have sacrificed quality and it has had a negative impact on the user experience, amongst users who are using one of our third-party distributors in particular. And I get a lot of e-mail complaints and every single one is about this particular third party vendor. And it's a – it's, we've just got to fix it. And I don't yet know whether it means we need to swap them out or we need to have a different agreement with them. But it definitely needs to be fixed.
+
+Look, for us to have a cost effective first party distribution network, we need more volume. And in the absence of volume, moving to third party was the right strategy. We just didn't implement it very well. So we're -- Andy is working on fixing that, too.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+Okay.
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+It's not rocket science. It's a little bit of systems integration and a more experienced management team, who's accustomed to managing 3PL partners effectively. We've got -- we have two, 3PL partners at the moment, and one of them we don't have a single complaint for. And the other one, we have nothing but complaints for it. So it's and there are countries like Australia, where we're growing superfast and it's all 3PL. So it's not like, 3PL as a strategy doesn't work. We've just got to fix our issues. We will.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+I realize it's early, but when we – you've seen the company has seen connected fitness gross margins in the past in the 30s percent toward 40% range. With these kind of issues resolved, is it possible to get back to those levels of connected fitness hardware?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+I don't know, maybe, but I don't care about connected fitness hardware gross margins. Just to be clear. I couldn't care less. I care only about lifetime value. How much we spend in marketing to acquire a sub and how much that sub is going to generate for us in profit over their lifetime. And so I know from my experience managing Spotify and Netflix that the way you maximize profit in a subscription business is by massaging the interplay of gross margin, SAC and churn.
+
+And so that's how I think broadly about how to manage the success at Peloton. If I have to sacrifice hardware gross margin in order to accelerate the growth of the business and generate more profit dollars at a lower margin, I'll generate more profit dollars for sure. And the embodiment of that strategy is what we call the one Peloton fitness-as-a-service, right? Where basically we're giving away the hardware and making it back on a monthly basis for a higher monthly fee than we charge for all access and it's all about managing for accelerated growth and the lifetime value.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+So let's talk about the One Peloton Club. You're seeing some good early success, so this is basically kind of fitness-as-a-service. It talks about a 90% uplift versus control markets, just given that early traction, why not move even faster here to broadly expand the offering?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Yeah. So just to level set everybody mainly with this concept, actually, it turns out it existed at the company long before I walked in the door, which I didn't realize when I walked in the door. But they were so busy selling everything during COVID-19, there was no upside associated with pursuing the strategy. So it just kind of people forgot about it. The number one barrier to sale is the cost of the hardware. So if you could limit the number one and the two and the – and it's so far outdistances any other consumer concern that it's like the entire story. So the idea is, well, if you could eliminate that barrier to entry, could it significantly accelerate growth? And if it did, even if it did it at a lower margin, could you be a lot – have a much bigger business and generate a lot more profit dollars?
+
+The answer is, well, maybe it kind of depends on what the churn rates are and [ph] the return rates (00:16:07) and the buyout rates and all of those things. Those are things you could only know over time. So you'd actually have to put it into a test market and then measure the incremental growth and then try to figure out whether you priced it appropriately so you can make money at it.
+
+So when we first launched it in the control market in like nine retail markets, we kind of had 39%, 41% incremental growth, which was not nearly as strong as we were hoping for. And then we adjusted the price points a little bit, and we increased the size of the test market and broadened it to our inside sales group. And last week, our incremental growth was 189%. So we've quite dramatically accelerated the growth. And we are in the process of trying to significantly broaden the size of the test market and make it accessible to people who land on our website. That's a -- why we couldn't immediately do that is a longer story and a source of some frustration. But anyway, we're making the changes we need to do to be able to test that.
+
+So I'm looking for a large N. And the reason I want a large N is because in order to know whether you have seen a statistically significant change in churn rate, you need a lot of users. So I would like to drive the N towards 50,000. But I want to be careful. I don't break the business model in the process. If all I've done is ended up giving away hardware for free with a large churn rate, that's going to end up blowing up in our face and not be a very successful model.
+
+So what is abundantly clear so far is that we absolutely solve for growth the incrementality. Now, the question is, what's the churn rate, what are the buyout rate? What's cancellation rate? If we have to drive your home and pick up a Bike, because you decided that it's not for you. And we do that a lot. It probably would more than offset whatever economic goodness we're seeing amongst the people who stick.
+
+So, so far, the engagement counterintuitively is higher amongst the fitness-as-a-service users by about 30%, as it turns out, than against the control group. I don't really understand. That wasn't my expectation. I thought if you had less money in the game, you might be less inclined to use it. That doesn't appear to be so. Could be that they're younger. I don't really understand why yet. But I'm super excited about what we're seeing. I think that it's a lot of -- no pun intended, a lot of potential upside for us if we can figure out the economics.
+
+And so that's the next step, is making sure that whatever we charge for delivery plus whatever we're charging you on a monthly basis, plus whatever the churn rate turns out to be, plus whatever the buyout is since sort of 12 months in if you'd like to buy it or whatever the cancellation rate and the churn rates are, enable us to make money on it.
+
+Now, how long will it take us to know that? Best case, I think, three months. Worst case, nine months. Somewhere in the three to six months. Why would it be three instead of nine months? Well, if in each new cohort the first monthly churn rate and the second monthly churn rates are all of the same, meaning cohort to cohort, I'm just going to make up a number. Let's say 2.1% churn from month one to month two for the first cohort, for the second cohort, for the third cohort. And if that churn rate looks a lot like the churn rate for the all access customers, then it's a pretty good bet. I would say based on my experience at Spotify and at Netflix. If the early churn curve is consistent, if – sorry, if the churn we see in, fitness-as-a-Service looks exactly the same in the first couple of months as the churn rate in the all-access and all of the all-access curves look exactly the same, then T1 too will be very predictive of 6, 12, 18, 24 for sure.
+
+That's -- so if that happens three months in, we'll know with high confidence. If on the other hand, all the cohorts are different. And there's no, central tendency to the number and the new data is different than the -- than what we're accustomed to seeing, then it will not be predictive. And the only way to know is to let it play out.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+Okay. Super helpful. How does that subscription kind of fitness-as-a-service offering coexist with just outright purchase and more of the current model, which you've obviously just adjusted prices?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+The same way it does in the test market. About 60% of customers coming into the funnel in the test markets are taking the finesses-as-a-service, and the other 40% are buying the hardware. They like the economics of owning it better than they like the economics of paying a little less upfront and then paying a higher monthly fee. So, instead of spending $39 today going to $40, you spend $70 bucks a month for a Bike+, right. It's not for everybody, but it -- want to spend the money upfront is pretty compelling.
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+I think about it very much like a car model, right? You're buying a car. You're leasing a car.
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Yeah. Or a phone plan.
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Yeah.
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Except there's no contract. So, I'm making that -- what are we investing in? We're investing in the user experience. Like, okay, so, our churn rate is less than 1%, and the Net Promoter Score is in the high-70s, low-80s. So, I'm betting that even when you don't pay to acquire the Bike, you will love the service and you will stay. We are making that bet. And I think that's a reasonable bet. You don't continue to subscribe to our service because of the investment in the Bike. You can turn around and sell the Bike in the used market pretty easily. So, for the most part, people do it because they love the service. So,
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+Let's talk about the digital app. You've outlined that is a pretty important part of the strategy to shift from hardware to software, but you've also talked about awareness being only around 4%. How do you think about that digital app as an on-ramp to a broader kind of connected fitness and all access type of subscription, but then also digital being a sizable business on its own.
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Yeah. Doug is referring to the fact that the digital app, which sits on your phone has an unaided brand awareness about 4%. Anybody in the room actually use the digital app?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Few. Handful.
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Four, five, six, seven, seven people. And it skews heavily female, much more heavily than the usage of the Bike. It's like a 70% or 80% female. I found out we had one from my wife. Actually, we've been subscribers to all-access subscribers -- before I joined, all-access subscribers for a couple of years, and I didn't even know we had a digital app. And I'd venture to say that's true for most of our all-access members, but it has all of our content on it. So if you're into strength or into yoga – she's a marathon runner and she uses it as part of her running training. And so the – this travels with her when she runs, and so it provided lots of utility for her. Strength is our second fastest growing category and the second most used category. And all that happens mostly in the digital app. So there's lots of value to be captured in it.
+
+We have always prioritized the $39 a month all-access subscription in comparison to the digital app. And we have never used the digital app to create awareness for the all-access product. But I think that's a strategic mistake and we're going to try to invert the model. And the marginal costs of the digital app are de minimis. And so it enables us to be able to think about a freemium-like product to drive the top of the marketing funnel to significantly broaden the flow to drive faster growth in all-access. And so we're in the process of rethinking our go to market strategy there.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+Okay. Let's shift to -- you hit on it a little bit, but you've obviously been focused on LTV across businesses for years. You're shifting the marketing hurdle from net CAC zero effectively to...
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Yeah.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+...more of CAC essentially equals LTV. How will this change...
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Not CAC equal to LTV.
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Well, LTV is hopefully, well, you'll spend up to that marginal...
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Yeah. But that's an important insight.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+Okay. How does it change your marketing approach, though, versus what Peloton has been doing?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Sorry, that conversation was probably a little hard to follow. So I'm going to try to unpack that. So the before I arrived the company had a framework for how much --deciding how much money it would spend on marketing. And it would basically spend as much as they were going to earn in gross margin on a hardware sale, which isn't an acquisition strategy grounded in economic theory. It's just a convenient frame of reference for how much they decided to spend. But there is an economic theory that informs us about how much you should spend. And for everybody who took macroeconomics or calculus, but you maximize your profit where marginal revenue goes through marginal cost. So the framework for thinking about how much to spend on marketing spending is, at the margin, you should be willing to spend in acquisition costs for a new subscriber, your lifetime value for that marginal subscriber.
+
+Good so far? Okay. So this was the sidebar exchange that Doug and I had. If you spend that at the margin, that doesn't – then that begs the question, well, what's my average subscriber acquisition cost relative to my average LTV? And the answer to that depends on more than anything else what the mix of paid acquisition -- freed acquisition is.
+
+And at Spotify and at Netflix and interestingly enough at Peloton and entirely coincidentally, about half the subs walk in the door for free, meaning from a marketing perspective, you can't attribute them to any given channel. They just show up and they pay for your service. And about half of the acquisition comes from paid. So if my average paid acquisition was, I'm going to make up a number of $40 and my mix is 50/50, my average is $20. Okay. And so – and my average paid could be $40, even if my marginal spend was $120, right, because what you do each quarter is you start buying in your lease costs channels of acquisition, and then you just keep spending incrementally higher and higher and higher until you run out of money to spend or channels in which you can spend cost effectively. So we live in a world of 2.7 to 1 roughly.
+
+At Spotify, we spent down to as low as 1.25 to 1. And we lived in as high as 3.5 to 1. The question is, where should we live? And the answer is, it kind of depends on your cost structure. If your cost structure is highly variable, then probably you want to live up in 3 to 4 to 1. But if on the other hand, your cost structure is relatively fixed and there's, no real incremental costs associated with delivering your content [indiscernible] (00:29:45) subscriber because you have all the instructors you're going to have and you have all the -- that content whether you distribute it to 1 million users or 5 million users. And that would be us then you ought to be comfortable living, closer to 1.25, 1.5, something like that.
+
+So anyway, I think it's pretty attractive today and we could be more aggressive than we have been. Now, why might not we be more aggressive? Well, because you lose money when you grow. At Spotify, at Netflix took about 12 months before you recoup the cost of the investment in the subscriber in the form of your gross -- cumulative gross profit. So the faster, the more money you lose. That's great. You all would celebrate the growth. But we also want to drive the business to the cash flow break even. And so there's those tensions between growth and, breakeven cash flow. And so cash is king. The overriding objective is to get the business to cash flow breakeven in the second half of FY 2023. And we'll think about growth in that context.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+Okay. That's great. Super helpful. So to get to that, perhaps back half of fiscal 2023 and free cash flow positive, you raised $750 million in debt recently. Help us understand what gives you the comfort that that amount is enough to bridge you to that point in time? And then, does this debt raise essentially remove the potential for any kind of equity stake sale at these levels?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Obviously, the answer is in two parts. Is it enough money? Honestly, I don't know. But here's what gives me confidence. In the forecast I'm looking at, my low water cash mark is $1.1 billion and I still have $500 million of an unused revolver. So I know from my prior life as a CFO, two big companies forecasting cash flow is really hard, and we weren't very good at either one of those places.
+
+Like, I don't care how bad we are at it at my current place, I can't be off by $1.6 billion try as I might. Now, last quarter's free cash flow was an unwelcomed surprise. I thought I would have the wind at my back. I didn't anticipate the day's sales outstanding of [ph] AP (00:32:18) would go from 48 days to 18 days in the quarter. But it did. And I felt like given the difficulty in forecasting free cash flow, and since cash is oxygen, as oxygen is life, you can't run out of cash. We needed to do something about it and that's why we went into the debt market and did something about it. And now I think we control our own destiny. And as I said, I think, the margin, we have a very comfortable margin for error. And so it makes the liquidity a non-issue, at least from my perspective. I realize we're in a show me from an investor perspective. But from where I sit, I'm feeling pretty comfortable about it.
+
+Now, the second part of your question was, would you go out and raise equity and presumably from a strategic partner, right?
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+Yes.
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Well, maybe I'm not signaling I would, by the way, but I do want to share how we would think about it. Well, I mean, at the current price, you'd have to be a moron to sell equity unless there's some spectacular increase in value that's going to happen as a result of this some new strategic alignment that's going to significantly accelerate the growth and the value of the business to incent to -- or to convince you to sell equity, at the current price or at any kind of reasonable multiple of the current price.
+
+So I don't know is there a strategic partner who could so significantly shift the business that they could surmount that hurdle? I think that's unlikely. But it's possible. And if they did, you all would celebrate it and we would want to participate in a deal like that. But it's very difficult for me to imagine a deal like that coming to fruition, honestly.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+Understood. Okay. We've got about 30 seconds. But my question is, there's obviously a ton to do here, a lot of work ahead. But when we're at this conference in two years, what will be -- what will we be discussing together?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+My retirement.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+You'll wait for the conference though, at least?
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Absolutely. We're talking about our 20% -- 25%-plus growth, new platforms we've launched, the international growth and hopefully the success we're having with fitness-as-a-service, Let's stick a pin in that because we need to understand the economics of it.
+
+Douglas Anmuth
+Analyst, JPMorgan Securities LLC
+All right. Great. Thank you.
+
+Barry W. McCarthy
+President, Chief Executive Officer & Director, Peloton Interactive, Inc.
+Yeah. Thank you, everyone.
