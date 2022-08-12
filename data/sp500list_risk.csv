@@ -1,0 +1,507 @@
+﻿Symbol,Name,GICS Sector Name,MktVal Co,3y BETA Rel to Loc Idx,,Altman Z Score,Total Debt% Total Assets,Price / Earns Ratio,Earns Yield,FE Val Peg Mean ,Net Income Margin,Pretax Int Coverag,Short Int Shs Pct Tot Float,Float Pct Total Outstdg,Entity Inst Ow Shs Out Pct,Cash Ratio
+MMM,3M Company,Industrials,"85,246.9",0.9,0.2,4.7,38.9,17.6,5.7,2.0,16.7,16.5,1.4,99.9,66.8,0.5
+AOS,A. O. Smith Corporation,Industrials,"8,019.6",1.0,0.3,7.9,6.6,28.4,3.5,1.8,13.8,141.9,4.8,98.3,80.0,0.6
+ABT,Abbott Laboratories,Health Care,"193,492.3",0.7,0.2,5.5,25.6,35.8,2.8,12.1,16.3,22.4,0.8,99.1,74.3,0.8
+ABBV,"AbbVie, Inc.",Health Care,"251,071.0",0.7,0.2,1.9,52.9,21.0,4.8,,20.4,8.1,0.8,99.8,69.2,0.3
+ABMD,"ABIOMED, Inc.",Health Care,"13,273.9",1.5,,55.8,0.6,111.3,0.9,3.7,13.2,,3.8,97.9,94.7,5.5
+ACN,Accenture Plc Class A,Information Technology,"198,885.6",1.3,0.2,7.9,8.1,36.8,2.7,3.0,11.7,129.8,0.7,99.8,76.4,0.5
+ATVI,"Activision Blizzard, Inc.",Communication Services,"62,983.5",0.3,0.2,6.1,15.6,19.3,5.2,2.7,30.7,30.9,2.5,93.7,78.3,4.4
+ADBE,Adobe Incorporated,Information Technology,"203,528.5",1.1,0.4,16.7,17.2,61.5,1.6,2.0,30.5,53.4,1.1,99.5,84.7,0.8
+AAP,"Advance Auto Parts, Inc.",Consumer Discretionary,"11,971.5",1.3,0.3,2.8,31.5,25.1,4.0,1.7,5.6,23.9,6.9,99.4,102.7,0.1
+AMD,"Advanced Micro Devices, Inc.",Information Technology,"159,004.3",1.6,0.5,24.1,5.9,56.8,1.8,0.6,19.2,108.2,2.2,99.5,66.9,0.9
+AES,AES Corporation,Utilities,"16,262.4",1.1,0.3,0.9,57.7,,-2.6,2.0,-3.7,2.4,1.7,99.5,94.0,0.3
+AFL,Aflac Incorporated,Financials,"39,583.3",1.1,0.2,,4.8,9.1,10.9,,19.6,,1.6,90.9,60.0,0.5
+A,"Agilent Technologies, Inc.",Health Care,"39,414.5",1.0,0.4,6.7,27.2,40.0,2.5,2.6,19.1,17.1,1.0,99.7,90.4,0.9
+APD,"Air Products and Chemicals, Inc.",Materials,"58,727.8",0.9,0.2,4.4,30.6,28.1,3.6,2.2,19.7,13.5,0.8,99.3,83.5,2.1
+AKAM,"Akamai Technologies, Inc.",Information Technology,"15,017.4",0.6,0.3,4.3,35.1,29.8,3.4,1.5,18.8,10.6,6.6,98.3,96.8,1.4
+ALK,"Alaska Air Group, Inc.",Industrials,"5,860.3",1.6,0.4,1.1,27.3,13.8,7.2,,7.7,-2.7,2.4,99.6,76.8,0.8
+ALB,Albemarle Corporation,Materials,"31,121.1",1.7,0.5,4.0,23.3,220.3,0.5,0.3,3.7,6.3,2.0,99.7,81.0,0.2
+ARE,"Alexandria Real Estate Equities, Inc.",Real Estate,"27,244.2",1.1,0.4,,31.7,58.4,1.7,,26.6,1.7,4.8,98.7,102.5,
+ALGN,"Align Technology, Inc.",Health Care,"22,446.7",1.6,0.5,15.3,2.1,67.8,1.5,7.7,19.5,,3.2,93.7,86.1,0.6
+ALLE,Allegion Public Limited Company,Industrials,"9,032.4",1.0,,5.2,50.3,24.8,4.0,2.4,16.8,10.7,2.1,99.4,93.9,0.7
+LNT,Alliant Energy Corp,Utilities,"15,460.2",0.5,0.2,1.2,41.0,23.4,4.3,3.9,18.4,2.9,1.0,99.8,75.2,0.0
+ALL,Allstate Corporation,Financials,"34,906.3",0.8,0.2,,9.3,6.3,15.8,4.2,10.3,,1.6,99.4,72.7,0.0
+GOOGL,Alphabet Inc. Class A,Communication Services,"1,451,015.0",1.1,0.3,13.3,7.9,25.8,3.9,1.5,29.5,154.4,0.8,99.6,66.6,2.2
+GOOG,Alphabet Inc. Class C,Communication Services,"1,451,015.0",1.1,0.3,13.3,7.9,25.8,3.9,1.5,29.5,154.4,0.6,87.4,66.6,2.2
+MO,Altria Group Inc,Consumer Staples,"81,271.2",0.7,0.2,3.8,71.0,35.5,2.8,2.0,11.7,10.0,0.9,99.9,59.9,0.5
+AMZN,"Amazon.com, Inc.",Consumer Discretionary,"1,432,778.0",1.2,0.4,5.3,31.5,51.5,1.9,31.9,7.1,13.8,0.8,87.2,60.2,0.7
+AMCR,Amcor PLC,Materials,"19,118.4",0.8,0.3,2.0,39.8,19.0,5.3,2.3,7.3,9.8,2.6,99.7,55.2,0.2
+AEE,Ameren Corporation,Utilities,"24,281.0",0.4,0.1,0.9,38.1,23.2,4.3,3.3,15.5,3.5,1.1,99.4,77.6,0.0
+AAL,"American Airlines Group, Inc.",Industrials,"9,741.2",1.4,0.5,0.1,69.5,,-17.2,,-6.7,-2.8,12.6,98.7,55.6,0.7
+AEP,"American Electric Power Company, Inc.",Utilities,"51,989.9",0.4,0.2,0.8,40.9,17.9,5.6,4.3,15.0,2.6,1.7,99.9,73.7,0.1
+AXP,American Express Company,Financials,"122,201.4",1.2,0.3,,21.7,16.3,6.1,0.6,18.3,12.2,1.1,99.9,86.9,
+AIG,"American International Group, Inc.",Financials,"44,624.2",1.2,0.3,,6.0,5.3,19.0,,18.0,,0.8,99.8,91.3,0.5
+AMT,American Tower Corporation,Real Estate,"127,547.5",0.6,0.2,,74.4,51.6,1.9,5.7,27.4,4.1,0.8,99.8,93.2,
+AWK,"American Water Works Company, Inc.",Utilities,"28,213.3",0.5,0.2,1.4,41.0,27.2,3.7,4.6,32.1,2.9,1.1,99.7,87.6,0.1
+AMP,"Ameriprise Financial, Inc.",Financials,"30,645.5",1.4,,,3.1,13.1,7.6,,19.9,19.0,0.7,99.6,82.7,
+ABC,AmerisourceBergen Corporation,Health Care,"31,046.8",0.3,0.3,4.1,13.6,16.2,6.2,1.5,0.7,14.7,2.6,74.5,66.8,0.1
+AME,"AMETEK, Inc.",Industrials,"29,197.8",1.3,0.2,5.9,22.9,34.6,2.9,2.3,17.9,16.3,0.6,99.2,88.4,0.2
+AMGN,Amgen Inc.,Health Care,"132,668.6",0.5,0.2,1.9,55.6,21.9,4.6,2.1,22.7,7.1,3.2,99.8,80.3,0.7
+APH,Amphenol Corporation Class A,Information Technology,"46,331.2",1.3,,5.7,34.4,34.4,2.9,2.3,14.4,18.8,0.8,99.4,96.1,0.5
+ADI,"Analog Devices, Inc.",Information Technology,"90,732.1",1.0,0.3,4.3,13.6,50.1,2.0,1.4,19.0,9.7,1.4,99.6,87.7,0.7
+ANSS,"ANSYS, Inc.",Information Technology,"24,391.4",1.1,0.4,13.1,13.9,77.7,1.3,4.7,23.8,41.9,1.9,99.6,94.4,0.9
+AON,Aon Plc Class A,Financials,"62,579.5",1.0,0.2,,32.7,54.1,1.8,2.1,10.3,10.9,0.9,98.9,89.1,
+APA,APA Corp.,Energy,"11,784.0",4.5,0.6,0.7,58.3,10.4,9.6,0.1,12.2,6.3,2.5,99.6,87.7,0.2
+AAPL,Apple Inc.,Information Technology,"2,707,761.0",1.3,0.3,7.1,38.9,26.2,3.8,2.8,25.9,41.2,0.7,99.9,59.5,0.5
+AMAT,"Applied Materials, Inc.",Information Technology,"91,805.5",1.5,0.5,9.4,22.3,21.3,4.7,1.6,25.5,32.3,1.3,99.7,79.7,0.9
+APTV,Aptiv PLC,Consumer Discretionary,"29,431.4",1.9,0.4,4.6,24.8,84.9,1.2,2.6,3.8,7.7,2.0,99.4,92.2,0.7
+ADM,Archer-Daniels-Midland Company,Consumer Staples,"47,165.7",0.7,0.3,3.2,18.8,14.1,7.1,1.8,3.2,14.2,1.2,99.4,79.3,0.0
+ANET,"Arista Networks, Inc.",Information Technology,"38,348.5",1.2,0.3,17.5,1.3,54.6,1.8,1.8,28.5,,1.7,77.1,64.5,3.1
+AJG,Arthur J. Gallagher & Co.,Financials,"38,820.5",0.8,0.2,,20.0,38.8,2.6,1.9,11.3,5.9,1.1,98.8,85.5,
+AIZ,"Assurant, Inc.",Financials,"8,696.5",0.5,,,8.2,20.8,4.8,0.8,6.0,,1.7,98.9,87.3,1.1
+T,AT&T Inc.,Communication Services,"129,148.4",0.3,0.2,0.8,36.9,8.9,11.2,2.1,11.9,4.0,1.1,99.9,53.2,0.2
+ATO,Atmos Energy Corporation,Utilities,"16,125.3",0.6,,1.0,36.3,17.2,5.8,2.7,19.5,10.0,4.7,99.1,90.9,0.0
+ADSK,"Autodesk, Inc.",Information Technology,"49,377.3",1.6,0.4,4.5,35.6,111.6,0.9,1.0,11.3,8.7,1.6,99.6,88.6,0.4
+ADP,"Automatic Data Processing, Inc.",Information Technology,"103,974.8",0.8,0.2,1.8,5.7,30.0,3.3,2.0,17.9,44.1,1.0,99.5,80.3,0.0
+AZO,"AutoZone, Inc.",Consumer Discretionary,"43,473.5",0.8,0.6,2.7,56.7,16.3,6.1,1.8,14.8,14.8,2.4,99.3,95.4,0.2
+AVB,"AvalonBay Communities, Inc.",Real Estate,"30,072.1",1.1,0.3,,41.6,35.1,2.8,4.1,42.9,2.9,1.8,98.6,93.2,
+AVY,Avery Dennison Corporation,Materials,"16,150.5",0.8,,4.0,41.2,24.5,4.1,2.4,8.8,13.9,1.1,98.3,89.7,0.1
+BKR,Baker Hughes Company Class A,Energy,"25,577.2",1.5,0.4,1.2,21.4,,-1.1,0.9,-1.1,5.3,3.3,99.4,88.3,0.5
+BALL,Ball Corporation,Materials,"18,160.7",0.5,0.3,2.5,41.4,36.4,2.8,1.8,6.3,4.6,2.1,99.3,85.7,0.1
+BAC,Bank of America Corp,Financials,"288,545.4",1.4,0.3,,15.9,12.5,8.0,1.8,33.4,,0.9,99.7,69.7,0.0
+BK,Bank of New York Mellon Corp,Financials,"35,855.5",1.1,0.2,,14.6,14.0,7.1,1.2,23.5,,1.0,99.8,84.6,0.8
+BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,"8,958.5",2.1,0.7,3.4,99.8,11.2,8.9,1.5,13.6,5.2,6.6,97.2,101.3,1.5
+BAX,Baxter International Inc.,Health Care,"30,201.5",0.4,0.2,2.5,54.6,34.0,2.9,2.3,10.0,12.8,1.2,99.8,88.5,0.7
+BDX,"Becton, Dickinson and Company",Health Care,"73,945.8",0.4,0.2,2.4,33.6,35.9,2.8,3.5,10.3,6.4,1.0,99.8,85.6,0.4
+BRK.B,Berkshire Hathaway Inc. Class B,Financials,"654,471.6",0.9,0.2,2.3,13.0,7.5,13.3,,32.5,8.4,0.6,99.6,45.4,2.9
+BBY,"Best Buy Co., Inc.",Consumer Discretionary,"18,108.0",1.5,0.5,4.6,22.5,9.9,10.1,3.1,4.7,119.9,6.0,88.9,80.1,0.3
+BIO,"Bio-Rad Laboratories, Inc. Class A",Health Care,"16,434.8",0.8,0.3,4.7,1.3,5.4,18.6,,145.3,357.1,1.6,85.7,69.0,1.3
+TECH,Bio-Techne Corporation,Health Care,"14,690.2",1.1,,,14.2,52.3,1.9,2.2,24.6,,2.0,98.6,95.1,1.4
+BIIB,Biogen Inc.,Health Care,"31,666.6",0.0,0.4,3.5,32.2,23.1,4.3,,15.0,9.9,1.3,99.7,86.6,0.9
+BLK,"BlackRock, Inc.",Financials,"110,392.8",1.2,0.3,,6.1,24.0,4.2,,29.2,40.6,1.5,98.9,80.8,
+BA,Boeing Company,Industrials,"99,689.0",1.4,0.4,1.5,43.0,,-3.6,,-6.7,0.0,1.8,99.8,54.6,0.2
+BKNG,Booking Holdings Inc.,Consumer Discretionary,"83,836.7",1.4,0.3,6.0,48.3,85.2,1.2,0.6,10.6,7.9,1.5,99.5,91.3,1.8
+BWA,BorgWarner Inc.,Consumer Discretionary,"9,414.0",1.3,0.3,2.6,27.3,20.1,5.0,0.5,3.6,10.0,2.9,99.4,94.8,0.5
+BXP,"Boston Properties, Inc.",Real Estate,"14,062.2",1.2,0.3,,59.7,36.3,2.8,,17.5,2.3,2.8,99.7,92.5,
+BSX,Boston Scientific Corporation,Health Care,"59,784.2",0.9,0.2,2.9,29.6,61.8,1.6,2.2,8.7,5.5,1.0,99.2,94.1,0.5
+BMY,Bristol-Myers Squibb Company,Health Care,"158,991.1",0.4,0.2,2.3,41.7,20.0,5.0,2.1,15.1,7.2,1.3,99.7,77.4,0.8
+AVGO,Broadcom Inc.,Information Technology,"220,254.3",1.2,0.3,3.5,53.3,35.4,2.8,0.7,24.5,4.6,1.3,97.7,81.8,1.9
+BR,"Broadridge Financial Solutions, Inc.",Information Technology,"19,896.9",1.0,1.0,3.2,51.6,34.8,2.9,,10.7,14.4,1.5,99.3,89.2,0.2
+BRO,"Brown & Brown, Inc.",Financials,"18,794.5",0.9,,,22.6,34.0,2.9,3.3,18.8,14.9,1.8,83.2,74.4,
+BF.B,Brown-Forman Corporation Class B,Consumer Staples,"35,785.6",0.7,,7.8,36.8,38.7,2.6,3.4,21.4,15.2,1.4,97.6,35.5,0.8
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,"14,547.6",0.8,0.3,6.7,31.7,17.1,5.9,1.2,3.7,18.1,8.0,99.2,95.9,0.1
+CDNS,"Cadence Design Systems, Inc.",Information Technology,"51,035.7",1.1,0.3,21.2,10.9,74.7,1.3,2.7,23.3,45.8,1.4,98.7,89.2,1.1
+CZR,Caesars Entertainment Inc,Consumer Discretionary,"10,574.7",3.1,0.6,0.7,71.0,,-5.2,,-10.3,0.7,6.4,95.6,95.1,0.3
+CPT,Camden Property Trust,Real Estate,"15,271.9",0.9,,,39.9,60.3,1.7,5.0,26.3,2.4,1.5,97.9,94.8,
+CPB,Campbell Soup Company,Consumer Staples,"15,055.8",0.2,0.2,2.4,45.1,13.3,7.5,8.9,11.9,5.8,6.7,66.5,51.3,0.0
+COF,Capital One Financial Corp,Financials,"44,242.7",1.5,0.4,,10.3,5.4,18.6,0.2,38.4,,1.6,98.7,85.0,0.1
+CAH,"Cardinal Health, Inc.",Health Care,"17,980.2",0.6,0.3,4.5,13.2,,-6.4,15.1,-0.5,9.7,2.4,99.5,88.5,0.2
+KMX,"CarMax, Inc.",Consumer Discretionary,"16,187.2",1.6,0.4,2.2,72.8,15.7,6.4,1.1,3.6,6.1,8.0,99.5,104.1,0.3
+CCL,Carnival Corporation,Consumer Discretionary,"11,559.8",2.4,0.7,0.1,64.9,,-48.0,,-498.0,-3.7,10.7,87.7,43.2,0.9
+CARR,Carrier Global Corp.,Industrials,"36,230.2",1.1,0.3,2.9,39.1,29.0,3.4,2.5,8.1,7.8,1.0,99.6,88.6,0.5
+CTLT,Catalent Inc,Health Care,"19,702.7",1.1,0.5,3.2,36.5,34.7,2.9,2.0,13.2,6.1,1.9,94.0,87.6,0.8
+CAT,Caterpillar Inc.,Industrials,"102,414.4",0.8,0.3,2.8,46.4,17.5,5.7,0.8,12.7,14.4,1.0,99.8,69.8,0.3
+CBOE,Cboe Global Markets Inc,Financials,"12,462.3",0.8,0.2,,20.9,26.5,3.8,4.9,15.1,17.1,,99.5,85.8,
+CBRE,"CBRE Group, Inc. Class A",Real Estate,"27,897.6",1.4,0.2,,19.5,20.1,5.0,,6.6,31.7,1.6,99.1,97.4,
+CDW,CDW Corp.,Information Technology,"23,741.2",1.1,,3.1,57.0,29.1,3.4,1.4,4.7,9.6,1.2,99.5,93.2,0.1
+CE,Celanese Corporation,Materials,"12,592.3",1.2,0.3,4.0,35.1,10.0,10.0,0.8,22.4,17.3,1.7,99.7,96.5,0.2
+CNC,Centene Corporation,Health Care,"54,532.4",0.4,0.3,,28.4,36.1,2.8,1.8,1.1,,1.5,98.0,94.8,0.5
+CNP,"CenterPoint Energy, Inc.",Utilities,"20,087.4",1.0,0.2,0.8,44.3,12.2,8.2,6.0,8.0,2.6,2.0,99.8,89.6,0.4
+CDAY,"Ceridian HCM Holding, Inc.",Information Technology,"10,227.2",1.5,,2.1,16.4,,-0.5,,-7.4,-0.8,6.3,94.8,99.2,0.1
+CF,"CF Industries Holdings, Inc.",Materials,"20,398.3",1.1,0.4,2.8,29.6,16.7,6.0,,14.0,11.6,3.1,99.3,92.4,1.1
+CRL,"Charles River Laboratories International, Inc.",Health Care,"11,505.8",1.3,0.4,3.5,42.0,48.6,2.1,1.4,11.0,5.6,1.9,98.8,95.0,0.2
+SCHW,Charles Schwab Corp,Financials,"131,863.8",1.2,0.3,,3.7,29.8,3.4,1.0,30.8,20.6,0.8,93.3,89.4,
+CHTR,"Charter Communications, Inc. Class A",Communication Services,"74,895.6",0.8,0.3,1.0,64.9,27.0,3.7,0.6,9.0,2.7,6.8,70.3,58.8,0.0
+CVX,Chevron Corporation,Energy,"313,623.5",1.3,0.3,3.2,14.6,14.4,6.9,1.3,10.0,21.5,1.0,99.9,70.9,0.2
+CMG,"Chipotle Mexican Grill, Inc.",Consumer Discretionary,"45,286.6",1.4,0.3,7.7,46.1,76.3,1.3,,8.7,,4.3,99.2,93.4,1.2
+CB,Chubb Limited,Financials,"80,943.1",0.7,0.2,,10.1,10.0,10.0,1.0,20.8,,0.5,99.3,89.7,0.0
+CHD,"Church & Dwight Co., Inc.",Consumer Staples,"21,276.4",0.4,,5.0,34.2,30.9,3.2,4.8,15.9,18.2,2.0,99.8,86.1,0.1
+CI,Cigna Corporation,Health Care,"90,740.2",0.7,0.3,,22.8,14.6,6.9,1.2,3.1,,2.2,98.3,89.2,0.1
+CINF,Cincinnati Financial Corporation,Financials,"16,359.3",0.6,0.2,,2.9,6.3,15.9,,30.6,,2.7,97.9,66.1,0.2
+CTAS,Cintas Corporation,Industrials,"43,474.5",1.6,0.3,7.8,35.2,34.2,2.9,3.5,15.7,17.3,1.4,84.9,64.1,0.1
+CSCO,"Cisco Systems, Inc.",Information Technology,"190,070.3",1.0,0.4,3.6,13.0,22.1,4.5,2.0,21.3,31.4,0.9,99.8,74.3,0.9
+C,Citigroup Inc.,Financials,"104,863.7",1.5,0.3,,20.8,6.0,16.8,,27.2,,2.0,99.8,76.6,0.1
+CFG,"Citizens Financial Group, Inc.",Financials,"19,518.4",1.3,0.3,,4.1,9.2,10.9,62.8,32.9,,1.1,99.4,84.1,0.0
+CTXS,"Citrix Systems, Inc.",Information Technology,"12,999.4",-0.1,0.1,2.6,50.9,38.8,2.6,,9.6,3.9,4.3,98.8,91.1,0.2
+CLX,Clorox Company,Consumer Staples,"17,798.6",0.1,0.3,3.7,50.7,37.8,2.6,112.8,6.5,7.2,6.0,99.8,79.9,0.1
+CME,CME Group Inc. Class A,Financials,"71,534.4",0.6,0.2,,2.0,31.3,3.2,3.6,56.2,15.8,0.9,99.5,87.4,
+CMS,CMS Energy Corporation,Utilities,"19,930.6",0.3,0.3,1.0,43.5,14.0,7.2,2.8,10.2,2.3,1.3,99.5,92.2,0.2
+KO,Coca-Cola Company,Consumer Staples,"273,403.0",0.6,0.2,4.1,46.9,26.3,3.8,4.4,25.2,14.3,0.6,99.3,70.7,0.6
+CTSH,Cognizant Technology Solutions Corporation Class A,Information Technology,"35,582.2",1.1,0.2,7.5,9.3,21.9,4.6,2.1,11.5,307.0,1.6,89.8,96.4,0.8
+CL,Colgate-Palmolive Company,Consumer Staples,"66,616.4",0.4,0.2,7.4,52.1,33.4,3.0,7.0,12.4,32.4,1.7,99.9,80.6,0.2
+CMCSA,Comcast Corporation Class A,Communication Services,"173,509.5",0.9,0.3,1.7,38.9,16.5,6.0,1.0,12.2,5.1,1.6,99.2,84.4,0.3
+CMA,Comerica Incorporated,Financials,"11,029.4",1.3,0.3,,3.3,10.5,9.6,0.2,39.6,,2.0,99.3,81.2,0.0
+CAG,"Conagra Brands, Inc.",Consumer Staples,"16,534.4",0.3,0.2,1.9,41.2,18.0,5.6,2.7,7.7,4.4,2.1,99.5,82.3,0.0
+COP,ConocoPhillips,Energy,"129,810.6",1.6,0.4,2.9,22.7,11.9,8.4,0.3,17.5,10.4,1.2,99.7,80.8,0.5
+ED,"Consolidated Edison, Inc.",Utilities,"34,919.3",0.2,0.2,1.0,40.2,22.1,4.5,6.0,9.8,2.9,2.0,99.9,67.7,0.2
+STZ,"Constellation Brands, Inc. Class A",Consumer Staples,"45,343.4",0.9,0.2,3.3,42.4,,-0.1,2.3,-0.5,7.7,1.4,96.1,71.3,0.1
+CEG,Constellation Energy Corporation,Utilities,"25,753.7",1.2,0.6,,17.0,,,0.7,-1.0,-1.8,1.3,99.8,78.4,0.1
+COO,"Cooper Companies, Inc.",Health Care,"16,218.9",0.9,,6.1,18.2,7.1,14.2,2.8,100.8,13.5,2.3,99.4,102.3,0.1
+CPRT,"Copart, Inc.",Industrials,"30,543.3",1.3,0.3,22.8,11.4,37.7,2.7,,34.8,56.1,1.0,90.0,81.3,2.5
+GLW,Corning Inc,Information Technology,"31,395.1",0.9,0.3,2.6,26.0,29.1,3.4,2.6,13.5,6.4,1.7,90.2,70.0,0.4
+CTVA,Corteva Inc,Materials,"43,617.4",0.7,0.3,1.9,3.7,19.9,5.0,1.3,11.6,44.5,0.8,99.8,79.3,0.5
+COST,Costco Wholesale Corporation,Consumer Staples,"235,744.9",0.6,0.3,6.9,19.2,40.0,2.5,3.0,2.6,42.7,0.9,99.7,68.3,0.4
+CTRA,Coterra Energy Inc.,Energy,"23,334.8",0.0,0.4,1.8,17.1,8.3,12.1,0.2,31.6,30.5,4.4,97.4,91.6,0.9
+CCI,Crown Castle Inc.,Real Estate,"77,455.0",0.7,0.2,,69.2,78.2,1.3,6.7,16.3,3.0,1.1,99.5,92.2,
+CSX,CSX Corporation,Industrials,"73,144.8",1.2,0.3,3.0,41.1,22.4,4.5,1.9,30.2,7.1,1.2,99.8,76.0,1.0
+CMI,Cummins Inc.,Industrials,"31,565.4",0.9,0.2,3.9,19.5,14.9,6.7,1.4,8.9,19.5,1.8,98.3,82.7,0.4
+CVS,CVS Health Corporation,Health Care,"136,862.4",0.6,0.2,2.2,31.6,17.3,5.8,1.9,2.7,6.1,1.2,99.7,80.3,0.2
+DHI,"D.R. Horton, Inc.",Consumer Discretionary,"27,346.8",1.8,0.4,5.5,22.5,7.4,13.6,0.3,15.0,35.4,4.3,89.2,89.4,1.0
+DHR,Danaher Corporation,Health Care,"211,817.5",0.9,0.3,5.0,28.0,38.2,2.6,1.2,21.5,33.4,0.6,90.0,80.3,0.3
+DRI,"Darden Restaurants, Inc.",Consumer Discretionary,"16,244.2",1.5,0.3,2.1,50.4,17.1,5.9,1.8,9.9,15.3,3.9,99.5,90.0,0.3
+DVA,DaVita Inc.,Health Care,"8,362.2",0.8,0.3,1.5,67.0,12.8,7.8,1.4,8.4,6.0,5.0,98.7,89.6,0.2
+DE,Deere & Company,Industrials,"110,615.7",1.0,0.4,2.4,57.9,18.0,5.5,1.0,13.6,11.7,1.0,92.7,72.3,0.3
+DAL,"Delta Air Lines, Inc.",Industrials,"21,775.1",1.2,0.4,0.4,43.5,89.5,1.1,0.1,0.9,-2.1,2.9,99.6,67.5,0.5
+XRAY,"DENTSPLY SIRONA, Inc.",Health Care,"8,008.3",1.0,0.4,2.8,24.8,29.2,3.4,3.0,9.9,9.8,3.2,99.5,100.0,0.3
+DVN,Devon Energy Corporation,Energy,"42,208.4",2.7,0.5,3.1,32.2,10.5,9.5,0.2,20.2,13.3,2.0,98.7,82.1,0.7
+DXCM,"DexCom, Inc.",Health Care,"34,641.4",1.0,0.5,13.4,38.6,347.4,0.3,2.9,6.3,2.7,3.1,98.6,95.9,3.8
+FANG,"Diamondback Energy, Inc.",Energy,"23,567.5",2.4,0.5,2.0,29.6,8.8,11.4,0.3,32.1,14.2,3.8,99.1,84.9,0.5
+DLR,"Digital Realty Trust, Inc.",Real Estate,"36,731.3",0.2,0.3,,41.1,29.8,3.4,20.6,38.6,2.6,2.7,99.9,91.2,
+DFS,Discover Financial Services,Financials,"29,641.8",1.4,0.3,,18.3,6.5,15.4,0.1,42.4,,1.4,99.6,85.9,0.2
+DISH,DISH Network Corporation Class A,Communication Services,"5,653.5",1.9,0.6,1.2,47.3,8.6,11.7,,13.5,198.0,10.7,85.6,46.8,0.8
+DG,Dollar General Corporation,Consumer Discretionary,"57,173.7",0.3,0.3,2.9,49.0,20.1,5.0,1.7,7.0,20.3,1.8,99.6,95.2,0.1
+DLTR,"Dollar Tree, Inc.",Consumer Discretionary,"37,134.8",0.7,0.4,3.2,45.9,22.2,4.5,1.1,5.0,10.3,2.4,98.7,97.9,0.2
+D,Dominion Energy Inc,Utilities,"67,914.0",0.5,0.2,0.9,41.3,19.7,5.1,3.1,19.0,2.4,0.7,99.8,69.5,0.0
+DPZ,"Domino's Pizza, Inc.",Consumer Discretionary,"14,502.3",0.5,0.3,2.9,316.5,41.7,2.4,3.2,11.7,4.1,4.1,99.4,98.3,0.8
+DOV,Dover Corporation,Industrials,"19,591.6",1.3,0.3,5.1,31.8,23.5,4.3,1.5,14.2,12.3,0.8,99.5,87.3,0.2
+DOW,"Dow, Inc.",Materials,"39,685.9",1.3,0.3,2.5,25.6,6.8,14.8,0.7,11.4,10.5,1.8,99.8,67.1,0.2
+DTE,DTE Energy Company,Utilities,"25,831.2",0.7,0.2,1.0,46.0,25.6,3.9,3.5,5.3,2.6,1.2,99.3,71.4,0.0
+DUK,Duke Energy Corporation,Utilities,"83,541.8",0.4,0.2,0.6,39.3,21.2,4.7,3.9,15.5,2.5,1.0,99.9,62.5,0.0
+DRE,Duke Realty Corporation,Real Estate,"24,393.8",0.7,0.2,,36.1,29.2,3.4,7.7,77.0,2.9,1.8,99.8,97.5,
+DD,"DuPont de Nemours, Inc.",Materials,"31,620.2",1.4,0.3,1.3,24.6,6.8,14.7,2.7,10.5,5.5,1.1,99.7,73.1,0.5
+DXC,DXC Technology Co.,Information Technology,"6,042.2",2.0,0.4,0.9,30.6,11.6,8.6,0.5,4.4,2.4,3.5,98.9,91.0,0.4
+EMN,Eastman Chemical Company,Materials,"12,180.2",1.5,0.3,2.8,34.6,19.3,5.2,0.7,8.2,7.5,1.7,99.5,84.9,0.2
+ETN,Eaton Corp. Plc,Industrials,"59,525.9",1.1,0.2,3.5,26.6,32.4,3.1,1.9,10.9,19.9,0.9,99.5,82.2,0.1
+EBAY,eBay Inc.,Consumer Discretionary,"26,682.8",1.2,0.3,4.3,35.4,,-5.0,1.6,2.4,11.2,3.1,99.8,90.9,1.6
+ECL,Ecolab Inc.,Materials,"48,770.2",1.2,0.3,4.4,43.2,60.0,1.7,2.6,8.9,7.8,0.9,87.2,76.8,0.1
+EIX,Edison International,Utilities,"26,318.8",0.9,0.3,0.7,39.5,34.2,2.9,3.7,5.5,2.9,1.3,99.9,90.8,0.0
+EW,Edwards Lifesciences Corporation,Health Care,"64,424.5",1.2,0.3,20.7,8.1,54.4,1.8,3.1,28.7,64.9,0.9,98.8,83.3,1.4
+EA,Electronic Arts Inc.,Communication Services,"36,220.4",0.7,0.2,5.0,16.2,45.9,2.2,1.8,11.3,19.7,1.4,94.3,86.3,0.9
+ELV,"Elevance Health, Inc.",Health Care,"114,506.7",1.0,0.2,,24.7,18.7,5.3,1.6,4.4,,0.9,99.3,92.7,0.1
+LLY,Eli Lilly and Company,Health Care,"286,159.6",0.4,0.3,5.4,34.6,45.1,2.2,1.6,19.7,22.2,0.6,83.4,72.8,0.3
+EMBC,Embecta Corporation,Health Care,"1,733.9",0.9,,,0.5,,,,35.6,,6.4,99.4,29.0,0.0
+EMR,Emerson Electric Co.,Industrials,"51,969.1",1.4,0.2,5.0,29.3,24.6,4.1,1.7,12.6,18.3,0.8,99.3,75.2,0.4
+ENPH,"Enphase Energy, Inc.",Information Technology,"39,675.4",1.9,0.6,10.2,50.7,179.5,0.6,1.8,10.5,4.9,3.6,97.2,71.5,2.3
+ETR,Entergy Corporation,Utilities,"24,162.0",0.7,0.3,0.8,46.0,20.3,4.9,3.1,9.6,2.2,1.9,99.4,89.6,0.1
+EOG,"EOG Resources, Inc.",Energy,"66,501.9",1.6,0.4,3.8,15.4,11.1,9.0,0.3,23.6,34.6,1.0,99.5,88.6,1.3
+EPAM,"EPAM Systems, Inc.",Information Technology,"24,895.6",1.9,0.5,25.0,6.8,82.0,1.2,2.3,12.8,,1.7,96.8,89.8,1.9
+EFX,Equifax Inc.,Industrials,"26,720.0",1.5,,4.1,48.0,48.6,2.1,2.8,15.1,7.9,1.7,99.5,91.0,0.1
+EQIX,"Equinix, Inc.",Real Estate,"62,779.0",0.4,0.3,,53.7,152.9,0.7,12.0,7.5,6.3,1.8,89.5,95.9,
+EQR,Equity Residential,Real Estate,"29,574.2",1.0,0.2,,40.9,25.5,3.9,6.9,54.8,2.2,1.2,97.4,92.2,
+ESS,"Essex Property Trust, Inc.",Real Estate,"19,065.2",1.0,,,48.9,46.9,2.1,8.2,33.9,2.0,1.2,99.3,98.8,
+EL,Estee Lauder Companies Inc. Class A,Consumer Staples,"62,670.8",1.0,0.5,6.8,36.9,40.8,2.5,3.4,17.7,18.3,1.5,99.5,57.4,0.9
+ETSY,"Etsy, Inc.",Consumer Discretionary,"14,519.5",2.3,0.6,6.5,63.6,64.4,1.6,3.5,21.2,50.8,11.0,99.3,95.4,1.6
+RE,"Everest Re Group, Ltd.",Financials,"10,696.4",0.7,,,9.1,7.9,12.6,0.6,11.5,,1.6,73.8,92.7,0.1
+EVRG,"Evergy, Inc.",Utilities,"15,912.0",0.6,0.7,0.9,39.6,17.9,5.6,4.3,15.7,3.6,1.1,98.6,81.8,0.0
+ES,Eversource Energy,Utilities,"31,594.3",0.5,0.2,1.0,41.9,25.7,3.9,3.3,12.4,3.3,1.1,99.5,79.9,0.0
+EXC,Exelon Corporation,Utilities,"45,323.3",0.5,0.2,1.0,32.7,33.2,3.0,9.1,4.3,4.1,1.4,99.8,84.1,0.1
+EXPE,"Expedia Group, Inc.",Consumer Discretionary,"16,692.9",1.8,0.5,1.2,41.2,,-1.0,1.0,0.1,0.7,4.5,99.5,95.0,0.6
+EXPD,"Expeditors International of Washington, Inc.",Industrials,"18,090.6",0.8,0.2,7.2,6.1,16.2,6.2,,8.6,,2.6,99.5,93.0,0.5
+EXR,Extra Space Storage Inc.,Real Estate,"27,856.4",0.7,,,60.3,36.6,2.7,4.2,50.5,6.2,2.2,98.4,93.4,
+XOM,Exxon Mobil Corporation,Energy,"388,382.0",1.0,0.3,3.7,15.6,11.4,8.8,0.5,8.2,17.3,0.9,99.9,56.6,0.1
+FFIV,"F5, Inc.",Information Technology,"10,138.8",1.2,0.3,4.2,14.3,37.2,2.7,3.6,12.7,,3.9,99.4,96.7,0.7
+FDS,FactSet Research Systems Inc.,Financials,"16,450.9",0.7,,9.4,38.9,36.7,2.7,,25.1,77.2,1.8,99.9,91.3,2.3
+FAST,Fastenal Company,Industrials,"31,354.5",1.1,0.3,21.5,14.8,40.0,2.5,,15.4,125.5,2.5,99.6,78.4,0.3
+FRT,Federal Realty Investment Trust,Real Estate,"8,724.3",1.4,0.4,,57.2,41.8,2.4,6.3,28.3,2.0,2.2,98.9,93.2,
+FDX,FedEx Corporation,Industrials,"59,567.0",1.0,0.3,2.5,43.3,15.6,6.4,0.7,4.1,8.7,1.5,91.8,73.3,0.5
+FIS,"Fidelity National Information Services, Inc.",Information Technology,"61,107.9",0.9,0.3,1.4,25.2,162.5,0.6,1.3,3.0,9.7,1.2,99.0,90.6,0.1
+FITB,Fifth Third Bancorp,Financials,"25,440.1",1.3,0.3,,6.3,11.7,8.6,0.7,33.9,,1.4,99.5,78.7,0.0
+FRC,First Republic Bank,Financials,"29,810.5",1.2,,,3.8,27.0,3.7,2.7,27.9,,1.4,99.9,87.8,1.8
+FE,FirstEnergy Corp.,Utilities,"22,895.8",0.5,0.2,0.7,53.2,18.4,5.4,4.0,11.1,1.6,0.9,99.9,82.7,0.3
+FISV,"Fiserv, Inc.",Information Technology,"69,049.5",0.9,0.3,1.5,28.8,52.3,1.9,2.0,8.2,3.7,1.7,94.6,86.6,0.0
+FLT,"FLEETCOR Technologies, Inc.",Information Technology,"17,537.8",1.3,0.3,2.2,45.3,22.4,4.5,0.9,29.6,19.8,1.1,97.0,89.8,0.4
+FMC,FMC Corporation,Materials,"13,801.4",0.7,1.0,2.8,31.5,19.3,5.2,1.7,15.9,9.1,1.0,99.4,91.1,0.1
+F,Ford Motor Company,Consumer Discretionary,"62,518.8",1.5,0.4,1.1,54.3,4.7,21.4,0.4,13.2,2.8,2.6,99.8,52.3,0.5
+FTNT,"Fortinet, Inc.",Information Technology,"42,154.4",1.1,0.4,7.9,17.8,99.0,1.0,2.4,18.2,43.3,1.5,83.2,67.6,1.1
+FTV,Fortive Corp.,Industrials,"23,931.3",1.1,0.3,3.3,25.2,46.8,2.1,1.9,11.7,8.1,0.7,98.5,99.6,0.2
+FBHS,"Fortune Brands Home & Security, Inc.",Industrials,"8,930.6",1.5,,3.8,36.7,19.3,5.2,1.5,10.1,13.0,1.3,99.6,88.9,0.2
+FOXA,Fox Corporation Class A,Communication Services,"19,603.6",0.9,0.3,,32.5,15.2,6.6,0.7,8.6,6.9,3.1,98.5,84.5,2.3
+FOX,Fox Corporation Class B,Communication Services,"19,603.6",0.9,0.3,,32.5,14.0,7.1,0.7,8.6,6.9,1.2,57.7,84.5,2.3
+BEN,"Franklin Resources, Inc.",Financials,"14,287.9",1.3,0.3,,31.4,8.3,12.0,,20.6,25.5,5.8,56.7,45.5,
+FCX,"Freeport-McMoRan, Inc.",Materials,"45,898.1",2.1,0.5,2.5,20.3,14.4,7.0,,19.2,11.6,1.9,99.5,79.1,1.4
+GRMN,Garmin Ltd.,Consumer Discretionary,"19,029.0",0.9,0.3,11.3,1.2,24.0,4.2,3.6,21.7,,1.7,80.1,53.8,1.3
+IT,"Gartner, Inc.",Information Technology,"24,128.7",1.5,,3.8,43.8,36.3,2.8,3.2,16.8,9.8,1.8,90.2,93.1,0.2
+GNRC,Generac Holdings Inc.,Industrials,"17,001.1",1.3,0.5,7.2,22.2,42.4,2.4,1.8,14.3,12.2,8.8,98.5,90.6,0.1
+GD,General Dynamics Corporation,Industrials,"63,575.8",0.7,0.2,3.2,27.0,18.1,5.5,1.6,8.5,9.7,1.1,99.4,86.2,0.1
+GE,General Electric Company,Industrials,"86,518.0",1.1,0.3,1.5,19.1,,-2.8,1.2,-4.5,2.5,1.3,99.4,65.2,0.5
+GIS,"General Mills, Inc.",Consumer Staples,"45,957.3",0.1,0.2,2.9,38.0,15.8,6.3,3.1,14.3,8.4,2.5,99.7,77.5,0.1
+GM,General Motors Company,Consumer Discretionary,"56,076.6",1.3,0.4,1.2,45.2,8.7,11.4,3.0,7.9,9.8,1.8,99.8,82.9,0.4
+GPC,Genuine Parts Company,Consumer Discretionary,"22,149.5",1.1,0.2,3.2,24.2,22.5,4.4,2.0,4.8,14.8,1.3,97.9,78.3,0.1
+GILD,"Gilead Sciences, Inc.",Health Care,"78,331.9",0.0,0.2,2.5,40.2,14.7,6.8,,22.7,10.2,1.1,99.9,80.6,0.6
+GPN,Global Payments Inc.,Information Technology,"37,599.6",1.1,0.3,1.6,27.9,41.1,2.4,0.6,11.3,6.0,1.3,98.9,85.8,0.5
+GL,Globe Life Inc.,Financials,"10,012.8",0.8,0.2,,6.8,13.0,7.7,,14.6,,1.3,97.7,82.8,0.0
+GS,"Goldman Sachs Group, Inc.",Financials,"120,783.4",1.4,0.3,,36.5,6.4,15.5,,33.6,,1.5,99.5,69.6,0.0
+HAL,Halliburton Company,Energy,"26,818.3",2.3,0.5,2.7,46.3,14.0,7.1,0.5,9.5,3.4,2.0,99.6,84.7,0.7
+HIG,"Hartford Financial Services Group, Inc.",Financials,"21,863.8",1.0,0.3,,7.0,10.4,9.6,1.3,10.6,,0.7,99.6,87.8,0.0
+HAS,"Hasbro, Inc.",Consumer Discretionary,"10,859.5",0.6,0.3,2.8,41.9,31.6,3.2,,6.7,4.9,3.3,92.3,82.9,0.4
+HCA,HCA Healthcare Inc,Health Care,"62,146.6",1.9,0.3,2.8,72.4,12.1,8.2,1.9,11.8,6.3,1.6,75.4,69.6,0.2
+PEAK,"Healthpeak Properties, Inc.",Real Estate,"14,995.0",1.0,0.3,,42.9,222.2,0.4,,6.1,2.0,1.7,97.4,83.4,
+HSIC,"Henry Schein, Inc.",Health Care,"10,442.7",0.8,0.2,4.2,14.3,17.0,5.9,2.3,5.0,31.0,2.9,98.5,97.0,0.1
+HSY,Hershey Company,Consumer Staples,"33,072.1",0.4,,4.9,51.6,27.2,3.7,2.7,16.5,15.4,1.8,99.7,83.0,0.1
+HES,Hess Corporation,Energy,"34,720.2",1.4,0.4,1.9,44.6,41.0,2.4,1.3,7.2,4.8,2.6,90.3,86.6,0.9
+HPE,Hewlett Packard Enterprise Co.,Information Technology,"19,061.2",1.1,0.3,0.7,25.3,5.7,17.6,2.1,12.3,15.9,2.2,99.7,84.5,0.2
+HLT,Hilton Worldwide Holdings Inc,Consumer Discretionary,"36,943.8",1.4,0.3,1.6,63.3,106.9,0.9,0.7,7.0,2.4,1.8,98.2,98.4,0.5
+HOLX,"Hologic, Inc.",Health Care,"17,992.5",1.1,0.2,4.3,35.3,10.6,9.4,,33.2,26.5,3.3,98.7,84.7,0.9
+HD,"Home Depot, Inc.",Consumer Discretionary,"319,313.2",0.9,0.3,7.6,64.4,23.6,4.2,1.9,10.9,17.1,0.8,99.9,70.3,0.1
+HON,Honeywell International Inc.,Industrials,"133,734.7",1.0,0.2,3.8,32.0,26.4,3.8,2.4,16.1,19.7,0.8,99.9,74.3,0.6
+HRL,Hormel Foods Corporation,Consumer Staples,"27,089.8",0.2,0.2,4.5,26.8,25.5,3.9,4.0,8.0,26.2,3.9,52.7,40.7,0.4
+HST,"Host Hotels & Resorts, Inc.",Real Estate,"13,695.1",1.3,0.4,,44.2,,-0.1,0.5,-0.4,-1.0,3.7,88.7,100.0,
+HWM,Howmet Aerospace Inc.,Industrials,"15,880.9",1.5,0.3,2.2,42.5,54.1,1.8,0.8,5.2,3.2,1.9,99.1,91.4,0.6
+HPQ,HP Inc.,Information Technology,"35,388.2",0.9,0.4,2.3,22.7,5.7,17.6,2.2,10.2,22.8,4.9,99.8,88.2,0.1
+HUM,Humana Inc.,Health Care,"61,260.9",0.7,0.3,,29.6,20.5,4.9,1.6,3.5,,1.3,99.5,95.8,0.2
+HBAN,Huntington Bancshares Incorporated,Financials,"20,464.7",1.1,0.3,,4.5,17.2,5.8,4.8,21.5,,3.1,98.8,80.4,0.0
+HII,"Huntington Ingalls Industries, Inc.",Industrials,"9,104.3",0.5,0.3,2.1,31.8,13.8,7.2,0.4,5.7,5.5,2.1,97.4,83.0,0.3
+IEX,IDEX Corporation,Industrials,"16,153.3",1.0,,7.3,26.5,40.2,2.5,2.1,16.3,17.3,1.4,99.7,98.1,1.9
+IDXX,"IDEXX Laboratories, Inc.",Health Care,"33,025.1",1.1,,23.5,42.3,76.5,1.3,5.3,23.2,29.1,2.0,99.0,87.9,0.2
+ITW,Illinois Tool Works Inc.,Industrials,"66,390.3",1.1,0.2,7.7,49.0,29.0,3.4,3.0,18.6,17.2,1.8,99.6,80.6,0.4
+ILMN,"Illumina, Inc.",Health Care,"35,730.8",1.1,0.7,9.0,16.7,75.4,1.3,,16.8,4.7,1.9,99.6,87.4,1.2
+INCY,Incyte Corporation,Health Care,"16,406.5",0.6,,9.4,1.2,17.2,5.8,1.1,31.8,334.1,2.7,99.0,94.5,2.7
+IR,Ingersoll Rand Inc.,Industrials,"21,051.5",1.5,0.3,3.2,23.3,55.2,1.8,1.7,10.1,7.2,2.3,99.8,102.9,1.4
+INTC,Intel Corporation,Information Technology,"146,132.5",0.6,0.3,3.4,22.9,10.6,9.5,18.2,25.1,22.0,1.6,99.9,63.0,1.0
+ICE,"Intercontinental Exchange, Inc.",Financials,"59,548.4",1.1,0.3,,7.4,19.0,5.3,3.1,40.0,11.4,1.4,98.6,89.4,
+IBM,International Business Machines Corporation,Information Technology,"119,707.5",0.6,0.2,2.8,41.8,21.1,4.7,2.5,8.2,6.4,2.6,99.9,56.7,0.2
+IFF,International Flavors & Fragrances Inc.,Materials,"31,148.9",1.2,0.3,1.8,30.8,136.6,0.7,3.6,2.3,3.1,1.2,99.8,93.8,0.2
+IP,International Paper Company,Materials,"15,856.3",0.7,0.2,2.3,31.9,16.4,6.1,2.0,5.8,3.4,4.3,99.3,85.0,0.4
+IPG,"Interpublic Group of Companies, Inc.",Communication Services,"11,875.5",1.1,0.3,1.5,24.1,15.7,6.4,2.4,9.3,8.6,3.1,99.5,100.9,0.3
+INTU,Intuit Inc.,Information Technology,"135,402.1",1.3,0.4,17.8,16.0,70.2,1.4,2.3,21.4,87.3,0.9,97.2,85.5,1.5
+ISRG,"Intuitive Surgical, Inc.",Health Care,"84,285.4",1.3,0.3,49.8,0.6,77.1,1.3,7.5,29.9,,1.1,99.4,85.7,3.7
+IVZ,Invesco Ltd.,Financials,"8,411.8",1.3,0.3,,29.7,7.7,13.0,,23.3,7.6,1.7,98.1,85.0,
+IQV,IQVIA Holdings Inc,Health Care,"45,134.9",1.4,,2.6,51.7,57.0,1.8,1.6,7.0,4.0,0.9,99.2,91.3,0.3
+IRM,"Iron Mountain, Inc.",Real Estate,"15,577.8",0.9,0.3,,81.0,33.8,3.0,,10.0,2.1,5.9,99.1,78.1,
+JBHT,"J.B. Hunt Transport Services, Inc.",Industrials,"20,024.5",1.1,0.3,6.8,21.3,28.6,3.5,0.7,6.3,22.7,3.6,79.5,74.4,0.2
+SJM,J.M. Smucker Company,Consumer Staples,"14,136.0",0.2,0.2,2.0,28.4,23.5,4.3,10.5,7.9,7.2,4.6,96.9,81.9,0.1
+JKHY,"Jack Henry & Associates, Inc.",Information Technology,"15,074.4",0.5,,9.5,6.7,39.7,2.5,4.8,17.7,348.5,2.6,99.4,92.3,0.1
+J,Jacobs Engineering Group Inc.,Industrials,"16,411.4",0.7,,2.9,26.1,43.7,2.3,1.5,2.9,10.3,1.8,98.9,86.7,0.3
+JNJ,Johnson & Johnson,Health Care,"439,441.1",0.5,0.2,4.5,19.1,21.9,4.6,3.6,22.3,30.3,0.5,99.8,69.8,0.7
+JCI,Johnson Controls International plc,Industrials,"39,207.9",1.2,0.3,2.1,21.8,30.0,3.3,1.1,6.4,6.6,1.1,99.4,90.7,0.1
+JPM,JPMorgan Chase & Co.,Financials,"352,319.3",1.1,0.3,,15.2,10.3,9.7,,38.1,,0.6,99.0,69.5,0.0
+JNPR,"Juniper Networks, Inc.",Information Technology,"9,271.8",1.0,0.3,1.9,21.1,46.9,2.1,1.9,5.3,8.6,3.5,98.7,93.9,0.7
+K,Kellogg Company,Consumer Staples,"25,641.1",0.3,0.2,2.6,42.5,14.8,6.7,8.4,10.5,7.4,4.0,99.3,85.3,0.1
+KDP,Keurig Dr Pepper Inc.,Consumer Staples,"55,255.1",0.7,0.2,1.7,26.5,24.5,4.1,3.1,16.9,5.5,2.0,55.1,48.6,0.1
+KEY,KeyCorp,Financials,"17,916.4",1.2,0.3,,7.2,8.8,11.4,0.9,35.3,,1.4,99.6,78.4,0.0
+KEYS,Keysight Technologies Inc,Information Technology,"30,000.6",1.0,0.4,7.0,26.0,37.7,2.7,2.3,18.1,13.7,1.7,99.2,85.9,1.6
+KMB,Kimberly-Clark Corporation,Consumer Staples,"45,454.1",0.3,0.2,3.8,51.0,26.7,3.7,3.1,9.3,11.1,2.2,99.8,76.2,0.0
+KIM,Kimco Realty Corporation,Real Estate,"14,132.3",1.6,0.3,,43.0,15.4,6.5,,62.0,2.2,2.4,97.9,91.2,
+KMI,Kinder Morgan Inc Class P,Energy,"41,883.3",1.0,0.2,0.8,46.5,20.3,4.9,,10.1,3.5,1.8,87.4,62.0,0.2
+KLAC,KLA Corporation,Information Technology,"55,627.4",1.2,0.4,4.5,53.8,14.6,6.9,1.4,36.1,22.9,5.0,99.8,88.8,0.9
+KHC,Kraft Heinz Company,Consumer Staples,"47,461.3",0.6,0.2,1.0,24.0,43.1,2.3,7.6,3.9,2.5,1.3,90.1,65.3,0.4
+KR,Kroger Co.,Consumer Staples,"33,767.3",0.3,0.3,3.9,39.4,20.0,5.0,0.9,1.2,6.4,3.1,99.2,81.3,0.2
+LHX,L3Harris Technologies Inc,Industrials,"44,258.1",0.6,0.3,2.5,22.9,23.5,4.3,4.2,10.4,8.4,1.0,99.4,83.2,0.2
+LH,Laboratory Corporation of America Holdings,Health Care,"23,390.1",1.1,0.2,3.9,31.1,12.9,7.8,,14.7,15.8,2.2,99.8,90.9,0.5
+LRCX,Lam Research Corporation,Information Technology,"68,139.6",1.2,0.4,,29.1,13.7,7.3,2.1,26.7,,1.3,99.6,82.5,0.8
+LW,"Lamb Weston Holdings, Inc.",Consumer Staples,"11,544.4",0.7,0.3,3.6,69.0,49.4,2.0,1.3,4.9,2.7,1.7,97.0,86.1,0.8
+LVS,Las Vegas Sands Corp.,Consumer Discretionary,"28,801.0",1.2,0.4,1.2,74.6,,-3.3,,-27.3,-1.0,5.3,43.2,37.8,0.7
+LDOS,"Leidos Holdings, Inc.",Industrials,"13,402.8",0.6,,2.4,43.8,16.9,5.9,2.4,5.5,5.7,0.7,93.9,79.1,0.3
+LEN,Lennar Corporation Class A,Consumer Discretionary,"24,887.0",1.7,0.4,4.2,19.7,7.4,13.6,0.3,16.1,18.5,4.9,97.8,90.1,0.6
+LNC,Lincoln National Corporation,Financials,"8,621.4",1.9,0.4,,1.8,9.2,10.9,0.5,7.3,,3.2,90.5,76.5,
+LIN,Linde plc,Materials,"152,435.1",1.0,0.2,3.8,18.6,47.3,2.1,2.1,12.4,24.5,0.8,99.6,79.9,0.2
+LYV,"Live Nation Entertainment, Inc.",Communication Services,"22,176.2",1.4,0.4,1.2,51.8,,-2.6,,-10.7,-1.5,9.6,67.2,67.2,0.7
+LKQ,LKQ Corporation,Consumer Discretionary,"15,160.0",1.3,,3.8,33.5,16.4,6.1,,8.3,20.9,1.8,99.3,95.7,0.1
+LMT,Lockheed Martin Corporation,Industrials,"113,710.5",0.5,0.2,4.1,27.3,15.6,6.4,3.3,9.4,16.0,1.0,99.9,74.9,0.3
+L,Loews Corporation,Financials,"13,856.9",0.9,,,24.2,9.5,10.5,,10.8,,0.8,83.6,60.8,0.0
+LOW,"Lowe's Companies, Inc.",Consumer Discretionary,"129,219.1",1.1,0.5,4.7,63.4,19.5,5.1,0.8,8.7,14.2,2.0,99.9,77.4,0.1
+LUMN,"Lumen Technologies, Inc.",Communication Services,"11,544.0",1.0,0.4,0.7,52.7,6.6,15.2,,10.3,2.9,14.4,99.1,78.0,0.0
+LYB,LyondellBasell Industries NV,Materials,"29,818.5",1.2,0.3,3.1,37.0,5.5,18.2,0.3,12.2,8.6,1.7,78.2,71.5,0.2
+MTB,M&T Bank Corporation,Financials,"32,880.7",0.8,0.3,,2.6,11.1,9.0,0.9,28.7,,2.0,99.5,71.0,0.0
+MRO,Marathon Oil Corporation,Energy,"16,201.0",2.8,0.5,2.4,24.2,13.7,7.3,0.1,16.9,5.9,3.0,99.7,81.0,0.4
+MPC,Marathon Petroleum Corporation,Energy,"48,221.9",1.8,0.4,2.4,31.5,23.8,4.2,0.4,1.1,3.1,3.0,99.8,77.3,0.6
+MKTX,MarketAxess Holdings Inc.,Financials,"10,011.9",0.9,,,5.8,60.8,1.6,7.1,36.8,400.5,1.6,97.5,96.7,
+MAR,"Marriott International, Inc. Class A",Consumer Discretionary,"52,295.0",1.8,0.3,2.5,44.6,49.5,2.0,0.6,7.9,4.2,1.8,85.7,61.5,0.2
+MMC,"Marsh & McLennan Companies, Inc.",Financials,"84,947.8",1.0,0.2,,38.3,28.4,3.5,2.7,15.9,10.6,1.0,99.8,90.5,
+MLM,"Martin Marietta Materials, Inc.",Materials,"22,759.1",0.8,0.3,3.0,37.6,38.9,2.6,1.9,13.0,7.0,2.1,99.3,96.4,0.3
+MAS,Masco Corporation,Industrials,"12,349.5",1.1,0.3,4.4,56.8,43.4,2.3,1.4,4.8,12.9,2.4,99.6,93.6,0.5
+MA,Mastercard Incorporated Class A,Information Technology,"336,092.6",1.1,0.3,10.2,39.0,41.0,2.4,1.4,46.0,24.0,0.6,89.1,76.3,0.6
+MTCH,"Match Group, Inc.",Communication Services,"18,926.2",1.2,0.5,3.2,80.1,142.5,0.7,0.9,9.3,6.5,3.0,99.6,96.0,0.7
+MKC,"McCormick & Company, Incorporated",Consumer Staples,"24,046.8",0.7,0.2,2.6,42.0,30.7,3.3,8.0,12.0,7.5,3.0,99.9,78.9,0.1
+MCD,McDonald's Corporation,Consumer Discretionary,"190,756.8",0.7,0.2,4.6,91.6,26.7,3.7,3.8,32.5,8.1,0.8,99.9,69.0,1.2
+MCK,McKesson Corporation,Health Care,"51,511.1",0.5,0.3,4.9,11.9,42.3,2.4,1.3,0.4,15.3,1.5,99.8,89.3,0.1
+MDT,Medtronic Plc,Health Care,"124,951.8",0.8,0.2,3.4,27.5,28.0,3.6,2.2,15.9,12.9,0.7,99.8,82.0,0.9
+MRK,"Merck & Co., Inc.",Health Care,"224,886.6",0.4,0.2,3.4,32.8,14.9,6.7,0.9,25.2,17.0,0.7,99.8,74.4,0.3
+META,Meta Platforms Inc. Class A,Communication Services,"404,796.5",1.3,0.4,16.0,8.7,24.4,4.1,2.0,33.4,,1.1,99.4,64.3,2.3
+MET,"MetLife, Inc.",Financials,"54,232.7",1.1,0.3,,2.4,8.6,11.7,4.4,9.4,,1.2,84.3,72.5,0.6
+MTD,Mettler-Toledo International Inc.,Health Care,"30,311.7",1.0,,12.0,54.1,51.8,1.9,2.3,20.7,23.4,1.6,98.5,94.7,0.1
+MGM,MGM Resorts International,Consumer Discretionary,"13,723.2",2.5,0.4,0.9,56.2,18.6,5.4,0.5,12.1,0.7,5.4,77.1,67.6,1.5
+MCHP,Microchip Technology Incorporated,Information Technology,"39,430.8",1.6,0.3,3.7,48.5,33.1,3.0,1.4,18.8,7.3,2.5,98.0,89.6,0.2
+MU,"Micron Technology, Inc.",Information Technology,"68,748.0",1.0,0.4,5.6,12.4,14.4,6.9,1.1,21.2,27.5,3.2,99.6,82.0,1.3
+MSFT,Microsoft Corporation,Information Technology,"2,140,564.0",0.9,0.3,7.7,21.5,26.6,3.8,2.3,36.7,40.4,0.5,98.5,71.3,1.1
+MAA,"Mid-America Apartment Communities, Inc.",Real Estate,"21,269.6",0.8,0.2,,40.3,49.8,2.0,13.7,30.0,3.0,2.1,98.4,94.8,
+MRNA,"Moderna, Inc.",Health Care,"68,339.1",1.7,0.6,9.1,3.7,9.0,11.1,,66.3,735.4,4.3,86.2,59.0,1.2
+MHK,"Mohawk Industries, Inc.",Consumer Discretionary,"8,012.2",1.2,0.4,3.3,19.2,12.2,8.2,0.9,9.2,20.5,3.4,82.6,80.2,0.2
+MOH,"Molina Healthcare, Inc.",Health Care,"19,080.0",0.6,,,20.7,28.3,3.5,1.7,2.4,,1.9,99.0,97.5,0.6
+TAP,Molson Coors Beverage Company Class B,Consumer Staples,"11,514.5",0.8,0.3,1.3,26.4,10.0,10.0,10.7,9.8,4.1,4.0,96.0,85.6,0.2
+MDLZ,"Mondelez International, Inc. Class A",Consumer Staples,"88,113.7",0.5,0.2,2.7,30.0,21.8,4.6,4.0,15.0,12.5,1.0,99.8,78.8,0.3
+MPWR,"Monolithic Power Systems, Inc.",Information Technology,"24,159.7",0.9,0.5,41.7,0.4,97.6,1.0,1.5,20.0,,2.4,94.0,95.3,3.2
+MNST,Monster Beverage Corporation,Consumer Staples,"47,299.7",0.8,0.3,27.0,0.3,37.3,2.7,3.6,24.9,,1.6,70.4,64.1,3.2
+MCO,Moody's Corporation,Financials,"58,279.6",1.1,0.2,6.1,54.3,33.1,3.0,,35.6,11.7,1.8,99.7,92.8,0.8
+MS,Morgan Stanley,Financials,"154,857.7",1.5,0.3,,27.1,12.2,8.2,19.3,24.5,,1.4,78.1,61.0,0.0
+MOS,Mosaic Company,Materials,"18,906.8",1.6,0.5,2.6,20.0,9.2,10.9,,13.2,12.3,2.7,99.7,86.6,0.2
+MSI,"Motorola Solutions, Inc.",Information Technology,"42,101.8",1.0,0.2,3.7,50.3,37.9,2.6,,15.2,8.0,0.8,99.6,86.5,0.5
+MSCI,MSCI Inc. Class A,Financials,"40,341.6",1.0,0.3,7.3,78.7,70.5,1.4,3.4,35.5,6.7,0.6,96.9,89.9,1.1
+NDAQ,"Nasdaq, Inc.",Financials,"30,549.4",1.1,0.2,,31.1,29.8,3.4,2.7,20.2,12.7,1.9,69.5,64.6,
+NTAP,"NetApp, Inc.",Information Technology,"16,194.4",1.1,0.3,2.3,29.3,17.9,5.6,1.6,14.8,16.6,2.5,99.7,92.6,1.0
+NFLX,"Netflix, Inc.",Communication Services,"107,930.0",1.3,0.5,7.1,40.6,53.6,1.9,1.2,17.2,8.1,2.5,98.4,79.7,0.7
+NWL,Newell Brands Inc,Consumer Discretionary,"8,582.2",0.6,0.3,1.4,38.8,16.3,6.1,2.6,5.4,4.0,5.1,99.4,95.1,0.1
+NEM,Newmont Corporation,Materials,"35,953.7",0.4,0.4,2.3,15.5,42.6,2.3,,9.1,6.3,1.5,99.9,82.5,1.9
+NWSA,News Corporation Class A,Communication Services,"10,981.2",1.4,,,23.3,14.8,6.7,2.2,6.0,9.9,1.1,99.3,74.7,0.5
+NWS,News Corporation Class B,Communication Services,"10,981.2",1.4,,,23.3,15.1,6.6,2.2,6.0,9.9,0.9,55.7,74.7,0.5
+NEE,"NextEra Energy, Inc.",Utilities,"175,710.2",0.6,0.3,1.7,39.3,51.5,1.9,3.4,16.8,4.5,1.2,99.8,79.8,0.0
+NLSN,Nielsen Holdings Plc,Industrials,"9,877.5",1.5,0.1,1.2,53.7,15.6,6.4,29.2,15.7,3.4,4.8,99.2,111.8,0.6
+NKE,"NIKE, Inc. Class B",Consumer Discretionary,"144,182.8",1.0,0.3,6.8,31.3,31.7,3.2,3.8,12.9,23.2,1.2,96.8,66.2,1.2
+NI,NiSource Inc,Utilities,"12,349.1",0.4,,0.6,38.9,21.7,4.6,2.9,11.9,2.9,3.2,99.4,93.6,0.0
+NDSN,Nordson Corporation,Industrials,"13,716.6",0.9,,8.0,25.1,32.9,3.0,1.7,19.2,24.1,1.3,91.8,73.3,0.7
+NSC,Norfolk Southern Corporation,Industrials,"61,116.5",1.4,0.3,2.8,38.0,24.6,4.1,2.2,27.0,6.6,1.3,99.9,76.4,0.3
+NTRS,Northern Trust Corporation,Financials,"21,413.8",1.1,0.3,,4.6,16.8,6.0,1.2,23.5,,1.7,98.0,96.3,1.3
+NOC,Northrop Grumman Corp.,Industrials,"72,762.3",0.5,0.3,2.8,34.4,8.9,11.2,6.3,19.6,6.6,1.1,99.8,82.4,0.4
+NLOK,NortonLifeLock Inc.,Information Technology,"13,950.5",0.8,0.3,1.7,55.1,19.0,5.3,,29.9,8.2,3.1,99.0,100.4,0.6
+NCLH,Norwegian Cruise Line Holdings Ltd.,Consumer Discretionary,"5,766.8",2.7,0.7,-0.5,70.2,,-59.5,,-695.5,-3.5,10.4,98.8,54.6,0.5
+NRG,"NRG Energy, Inc.",Utilities,"9,507.0",1.1,0.3,1.8,35.7,4.8,20.7,,8.1,1.6,6.5,97.5,97.1,0.6
+NUE,Nucor Corporation,Materials,"37,754.2",1.4,0.4,5.6,22.4,4.9,20.3,,18.6,57.3,2.7,99.4,80.6,0.5
+NVDA,NVIDIA Corporation,Information Technology,"448,550.0",1.3,0.5,22.1,26.4,59.4,1.7,2.2,36.2,45.2,1.4,96.0,65.0,4.9
+NVR,"NVR, Inc.",Consumer Discretionary,"14,436.1",1.1,,9.6,27.3,18.4,5.4,0.6,14.1,26.4,2.0,94.0,86.2,2.1
+NXPI,NXP Semiconductors NV,Information Technology,"47,367.5",1.5,0.4,3.2,50.9,33.0,3.0,0.8,16.9,7.0,1.9,99.8,88.3,1.2
+ORLY,"O'Reilly Automotive, Inc.",Consumer Discretionary,"47,283.5",1.1,0.2,3.8,47.3,22.7,4.4,1.9,16.2,19.3,1.1,98.8,84.2,0.1
+OXY,Occidental Petroleum Corporation,Energy,"61,189.7",2.1,0.5,0.9,38.7,18.4,5.4,2.0,10.7,2.8,6.6,99.7,86.8,0.3
+ODFL,"Old Dominion Freight Line, Inc.",Industrials,"35,252.4",0.8,0.3,25.0,4.2,40.3,2.5,1.8,19.7,821.0,4.0,86.5,72.4,1.5
+OMC,Omnicom Group Inc,Communication Services,"14,785.6",1.1,0.3,1.6,24.2,11.2,8.9,3.5,9.9,10.2,4.9,98.9,95.3,0.3
+ON,ON Semiconductor Corporation,Information Technology,"28,749.6",1.8,0.5,5.3,33.8,29.9,3.3,0.6,15.0,9.2,5.2,99.2,96.4,0.9
+OKE,"ONEOK, Inc.",Energy,"29,012.2",1.9,0.3,2.0,58.2,17.5,5.7,2.1,8.7,4.0,1.5,99.3,66.7,0.0
+ORCL,Oracle Corporation,Information Technology,"205,625.7",0.7,0.3,1.6,72.7,29.8,3.4,1.1,15.8,5.8,1.1,56.7,42.6,1.1
+OGN,Organon & Co.,Health Care,"8,037.8",0.4,0.3,1.6,87.7,5.7,17.5,,21.2,7.3,2.2,99.9,78.3,0.3
+OTIS,Otis Worldwide Corporation,Industrials,"34,077.2",0.7,0.2,3.1,63.4,30.1,3.3,2.7,8.7,16.0,1.6,99.8,86.4,0.6
+PCAR,PACCAR Inc,Industrials,"32,337.8",0.7,0.3,2.6,35.7,16.6,6.0,0.8,7.9,552.2,1.0,98.2,64.7,0.5
+PKG,Packaging Corporation of America,Materials,"13,311.2",0.5,,4.0,34.1,15.4,6.5,2.9,10.8,8.2,2.2,98.4,92.6,0.8
+PARA,Paramount Global Class B,Communication Services,"16,883.2",1.8,0.5,1.5,33.5,4.4,22.8,,15.3,4.1,9.5,95.2,74.5,0.7
+PH,Parker-Hannifin Corporation,Industrials,"38,833.7",1.5,0.3,,44.2,24.4,4.1,1.8,8.3,11.2,1.1,99.2,83.4,0.1
+PAYX,"Paychex, Inc.",Information Technology,"47,532.9",1.1,0.2,5.5,9.3,32.3,3.1,3.2,30.2,50.3,3.0,89.3,72.4,0.2
+PAYC,"Paycom Software, Inc.",Information Technology,"22,684.0",1.5,0.4,7.3,1.9,123.3,0.8,2.7,18.6,,2.2,84.8,75.2,0.1
+PYPL,"PayPal Holdings, Inc.",Information Technology,"114,618.3",1.7,0.4,3.4,12.9,53.6,1.9,1.8,16.3,19.5,1.9,99.8,73.3,0.2
+PENN,"PENN Entertainment, Inc.",Consumer Discretionary,"5,644.8",2.3,0.5,0.9,60.1,21.6,4.6,,7.1,1.9,6.0,98.2,79.7,1.7
+PNR,Pentair plc,Industrials,"8,165.4",1.1,0.3,4.7,20.7,22.1,4.5,1.4,14.8,52.5,2.7,99.7,44.4,0.1
+PEP,"PepsiCo, Inc.",Consumer Staples,"241,570.0",0.6,0.2,4.0,45.9,31.0,3.2,3.6,9.6,6.6,0.7,99.6,72.8,0.2
+PKI,"PerkinElmer, Inc.",Health Care,"20,304.9",1.0,,3.1,34.7,24.9,4.0,,18.6,14.2,5.0,99.7,78.3,0.5
+PFE,Pfizer Inc.,Health Care,"270,950.2",0.8,0.3,3.7,22.8,15.2,6.6,,27.6,14.9,1.1,99.9,68.3,0.7
+PM,Philip Morris International Inc.,Consumer Staples,"154,194.8",0.5,0.2,4.7,68.6,16.3,6.1,3.5,29.0,13.9,0.6,99.8,75.0,0.2
+PSX,Phillips 66,Energy,"42,491.2",1.5,0.4,3.1,27.9,24.4,4.1,0.5,1.2,2.0,2.3,99.3,70.2,0.2
+PNW,Pinnacle West Capital Corporation,Utilities,"8,557.4",0.4,0.2,0.7,37.2,12.9,7.7,,16.3,2.7,2.5,99.7,92.3,0.0
+PXD,Pioneer Natural Resources Company,Energy,"54,530.6",1.6,0.4,2.9,20.2,21.1,4.7,0.5,11.8,40.1,2.4,96.8,91.0,1.0
+PNC,"PNC Financial Services Group, Inc.",Financials,"70,516.7",1.2,0.3,,6.1,15.8,6.3,0.7,29.0,,1.4,99.6,82.6,0.2
+POOL,Pool Corporation,Consumer Discretionary,"14,858.8",0.9,0.4,9.4,44.2,35.5,2.8,,12.2,99.9,8.4,97.0,97.1,0.0
+PPG,"PPG Industries, Inc.",Materials,"31,334.6",1.3,0.3,4.1,35.0,28.7,3.5,2.0,8.5,11.9,1.1,99.6,82.4,0.2
+PPL,PPL Corporation,Utilities,"21,657.6",0.8,0.2,1.2,33.9,178.2,0.6,1.8,0.3,1.5,1.6,99.9,68.8,1.5
+PFG,"Principal Financial Group, Inc.",Financials,"19,580.5",1.3,0.3,,1.5,11.5,8.7,2.1,12.0,,4.2,99.5,75.9,0.1
+PG,Procter & Gamble Company,Consumer Staples,"348,521.8",0.4,0.2,5.3,27.6,24.8,4.0,5.2,18.4,40.8,0.6,99.9,61.3,0.2
+PGR,Progressive Corporation,Financials,"70,458.9",0.4,0.3,,7.6,18.1,5.5,1.0,7.0,,0.9,99.7,85.4,0.0
+PLD,"Prologis, Inc.",Real Estate,"99,380.6",0.8,0.3,,31.4,43.9,2.3,3.0,61.8,5.8,2.3,99.1,96.7,
+PRU,"Prudential Financial, Inc.",Financials,"38,621.3",1.4,0.3,,3.2,5.5,18.0,,10.7,,2.5,99.9,59.3,0.5
+PTC,PTC Inc.,Information Technology,"14,510.9",1.2,,4.3,36.6,29.7,3.4,2.1,26.4,7.9,1.7,90.5,87.0,0.4
+PEG,Public Service Enterprise Group Inc,Utilities,"33,269.0",0.6,0.2,1.1,40.2,,-1.9,6.6,-7.4,1.6,1.4,99.8,71.4,0.1
+PSA,Public Storage,Real Estate,"60,814.7",0.5,0.2,,43.0,38.0,2.6,4.1,55.2,17.2,1.5,88.0,75.5,
+PHM,"PulteGroup, Inc.",Consumer Discretionary,"10,248.4",1.6,0.4,4.3,20.6,7.7,13.0,0.4,13.9,19.7,4.2,99.3,92.0,0.5
+PVH,PVH Corp.,Consumer Discretionary,"4,604.9",2.0,0.5,2.1,31.9,7.0,14.2,3.4,10.4,9.2,3.0,99.3,101.0,0.4
+QRVO,"Qorvo, Inc.",Information Technology,"11,220.3",1.4,0.4,4.2,28.3,13.1,7.6,3.7,22.2,19.4,2.1,99.4,91.4,1.4
+QCOM,Qualcomm Incorporated,Information Technology,"166,013.1",1.1,0.4,5.1,39.5,17.0,5.9,0.8,26.9,17.5,1.4,99.8,74.6,1.0
+PWR,"Quanta Services, Inc.",Industrials,"20,298.9",0.9,0.3,3.0,31.1,34.3,2.9,2.8,3.7,9.9,4.4,98.7,91.9,0.1
+DGX,Quest Diagnostics Incorporated,Health Care,"16,391.4",1.1,0.2,4.0,35.1,11.1,9.0,,18.4,16.1,4.1,99.3,92.5,0.5
+RL,Ralph Lauren Corporation Class A,Consumer Discretionary,"4,443.3",1.4,0.4,3.5,43.9,13.9,7.2,0.3,9.7,13.0,9.3,97.9,59.8,1.2
+RJF,"Raymond James Financial, Inc.",Financials,"23,277.8",1.0,0.3,,58.1,13.9,7.2,,14.2,17.1,1.2,90.0,73.1,
+RTX,Raytheon Technologies Corporation,Industrials,"137,537.3",1.0,0.2,1.9,20.8,33.6,3.0,2.3,6.1,3.4,0.7,99.9,80.5,0.2
+O,Realty Income Corporation,Real Estate,"44,434.1",0.9,0.2,,40.0,82.6,1.2,13.4,17.2,3.0,2.9,99.8,80.0,
+REG,Regency Centers Corporation,Real Estate,"11,255.3",1.3,,,39.8,35.6,2.8,8.3,32.7,2.9,2.1,99.1,103.7,
+REGN,"Regeneron Pharmaceuticals, Inc.",Health Care,"66,876.0",0.1,0.3,9.5,10.6,8.8,11.4,,50.2,156.1,3.0,95.7,85.7,1.4
+RF,Regions Financial Corporation,Financials,"21,157.1",1.2,0.3,,1.8,8.7,11.4,6.1,38.0,,1.8,99.8,71.9,0.3
+RSG,"Republic Services, Inc.",Industrials,"44,793.3",0.8,0.2,2.7,39.4,34.5,2.9,2.9,11.4,6.8,0.7,65.1,59.0,0.0
+RMD,ResMed Inc.,Health Care,"35,232.7",0.6,0.6,,18.0,39.6,2.5,3.1,21.8,44.8,1.3,99.1,69.1,0.4
+RHI,Robert Half International Inc.,Industrials,"8,969.3",1.5,,8.2,9.0,20.8,4.8,3.7,9.3,,5.7,97.3,89.9,0.5
+ROK,"Rockwell Automation, Inc.",Industrials,"29,195.9",1.4,0.3,4.5,39.7,25.4,3.9,3.3,19.4,13.4,2.4,99.8,81.4,0.2
+ROL,"Rollins, Inc.",Industrials,"18,047.1",0.6,0.3,13.5,20.3,48.0,2.1,5.7,14.5,"1,023.2",6.3,47.2,42.3,0.2
+ROP,"Roper Technologies, Inc.",Information Technology,"45,976.4",1.0,0.2,3.5,34.4,47.8,2.1,4.6,17.0,6.7,1.3,99.6,94.2,0.1
+ROST,"Ross Stores, Inc.",Consumer Discretionary,"30,846.0",1.1,0.5,4.3,38.5,19.7,5.1,2.1,9.1,26.0,2.7,97.7,88.5,1.2
+RCL,Royal Caribbean Group,Consumer Discretionary,"10,641.1",2.8,0.7,0.0,67.3,,-27.2,,-343.3,-2.9,7.4,86.2,66.5,0.4
+SPGI,"S&P Global, Inc.",Financials,"128,787.7",1.1,0.3,10.5,31.3,37.7,2.7,0.8,36.4,37.2,2.2,99.9,89.8,1.7
+CRM,"Salesforce, Inc.",Information Technology,"185,796.3",1.1,0.4,3.7,14.5,156.9,0.6,2.7,5.5,2.5,1.3,96.7,78.7,0.5
+SBAC,SBA Communications Corp. Class A,Real Estate,"37,038.2",0.4,0.3,,148.2,182.0,0.5,10.3,10.3,1.8,1.3,98.8,96.1,
+SLB,Schlumberger NV,Energy,"52,176.8",1.8,0.4,2.1,36.6,22.7,4.4,0.7,8.2,5.9,1.6,99.8,81.4,0.3
+STX,Seagate Technology Holdings PLC,Information Technology,"17,718.2",0.9,0.3,2.0,63.7,9.4,10.7,3.9,14.1,8.2,5.7,99.5,81.9,0.2
+SEE,Sealed Air Corporation,Materials,"8,336.0",1.2,0.3,3.0,60.6,20.9,4.8,2.1,8.9,4.8,1.1,99.3,84.8,0.3
+SRE,Sempra Energy,Utilities,"51,512.3",0.8,,1.1,34.5,33.0,3.0,4.0,10.1,2.2,1.1,99.9,89.7,0.1
+NOW,"ServiceNow, Inc.",Information Technology,"100,888.9",0.9,0.4,11.6,20.5,573.4,0.2,2.2,3.9,9.2,1.6,99.3,89.3,0.7
+SHW,Sherwin-Williams Company,Materials,"63,238.1",1.0,0.3,4.5,55.6,50.5,2.0,2.2,9.3,7.7,1.1,91.8,78.3,0.0
+SBNY,Signature Bank,Financials,"12,715.2",1.8,0.4,,3.0,21.5,4.6,0.8,39.7,,2.7,100.0,92.6,0.3
+SPG,"Simon Property Group, Inc.",Real Estate,"37,487.8",1.9,0.3,,76.5,25.6,3.9,2.0,44.0,3.0,2.0,99.2,88.5,
+SWKS,"Skyworks Solutions, Inc.",Information Technology,"17,742.1",1.2,0.4,7.3,28.1,18.3,5.5,0.7,29.3,125.4,2.0,99.6,75.1,1.5
+SNA,Snap-on Incorporated,Industrials,"12,184.5",1.0,,5.5,18.7,14.4,6.9,2.0,17.8,19.5,5.2,98.3,29.3,0.8
+SEDG,"SolarEdge Technologies, Inc.",Information Technology,"17,669.7",1.5,0.6,7.3,24.7,92.8,1.1,1.7,8.6,18.3,3.4,98.3,81.9,1.3
+SO,Southern Company,Utilities,"84,774.6",0.6,0.2,0.9,43.5,30.6,3.3,4.5,10.4,2.9,1.2,99.7,62.0,0.2
+LUV,Southwest Airlines Co.,Industrials,"23,122.9",0.7,0.3,1.7,32.2,26.7,3.7,,6.2,-2.7,1.6,99.6,76.8,1.7
+SWK,"Stanley Black & Decker, Inc.",Industrials,"14,530.3",1.2,0.4,2.4,25.0,18.6,5.4,,10.3,12.1,3.5,99.6,87.8,0.0
+SBUX,Starbucks Corporation,Consumer Discretionary,"100,133.6",1.1,0.3,3.4,75.2,31.9,3.1,2.8,14.5,9.4,1.2,97.9,68.8,0.8
+STT,State Street Corporation,Financials,"27,023.7",1.7,0.3,,5.0,12.9,7.7,1.0,24.0,,1.1,99.5,88.8,0.1
+STE,STERIS Plc,Health Care,"21,037.8",0.7,,3.9,28.7,97.5,1.0,,5.3,6.7,1.4,99.7,94.8,0.4
+SYK,Stryker Corporation,Health Care,"82,477.7",1.0,0.3,4.6,37.3,51.3,2.0,2.8,11.7,10.9,1.4,93.0,78.8,0.7
+SIVB,SVB Financial Group,Financials,"26,894.4",1.5,0.4,,1.5,21.7,4.6,2.2,31.0,,3.0,99.5,97.0,0.0
+SYF,Synchrony Financial,Financials,"17,396.3",1.7,0.4,,15.2,6.3,15.8,0.1,37.6,14.4,2.4,99.5,92.2,
+SNPS,"Synopsys, Inc.",Information Technology,"57,671.3",1.2,0.4,10.4,7.6,69.2,1.4,2.3,18.0,224.0,1.3,99.4,87.1,0.7
+SYY,Sysco Corporation,Consumer Staples,"41,909.5",1.2,0.2,5.5,51.5,32.7,3.1,,2.0,5.1,1.8,99.6,84.7,0.1
+TMUS,"T-Mobile US, Inc.",Communication Services,"180,092.9",0.4,0.3,1.0,48.8,48.1,2.1,1.7,3.8,2.8,2.5,44.2,41.8,0.3
+TROW,T. Rowe Price Group,Financials,"29,437.2",1.4,0.3,,2.0,15.0,6.7,,39.1,,7.6,97.9,74.4,
+TTWO,"Take-Two Interactive Software, Inc.",Communication Services,"20,090.2",0.8,0.3,5.5,3.8,42.9,2.3,1.6,11.9,29.3,3.1,91.8,71.5,1.4
+TPR,"Tapestry, Inc.",Consumer Discretionary,"8,939.0",1.5,0.6,2.8,41.0,14.5,6.9,0.8,14.5,15.3,2.8,99.5,93.0,1.4
+TGT,Target Corporation,Consumer Discretionary,"78,642.9",1.1,0.6,4.2,30.6,15.4,6.5,0.9,6.6,21.5,1.5,99.7,80.4,0.3
+TEL,TE Connectivity Ltd.,Information Technology,"42,941.6",1.3,0.3,4.6,21.2,21.2,4.7,1.8,15.1,46.6,0.7,99.8,92.8,0.3
+TDY,Teledyne Technologies Incorporated,Information Technology,"18,515.8",1.0,0.3,2.8,29.7,43.5,2.3,2.0,9.7,10.9,2.1,98.6,90.9,0.3
+TFX,Teleflex Incorporated,Health Care,"11,907.9",1.2,,4.6,28.9,32.1,3.1,2.5,17.3,7.4,3.4,99.8,100.5,0.7
+TER,"Teradyne, Inc.",Information Technology,"16,004.3",1.4,0.4,15.6,4.8,29.6,3.4,,27.4,67.8,2.8,99.6,102.4,1.7
+TSLA,Tesla Inc,Consumer Discretionary,"898,146.5",2.8,0.6,22.8,14.3,216.0,0.5,2.3,10.3,15.3,2.9,83.4,43.0,0.9
+TXN,Texas Instruments Incorporated,Information Technology,"166,349.6",0.9,0.3,14.3,33.3,22.8,4.4,2.3,42.2,49.0,1.8,99.7,84.3,3.8
+TXT,Textron Inc.,Industrials,"14,181.1",1.4,0.3,2.9,26.2,23.4,4.3,1.4,6.0,6.1,2.0,99.5,86.2,0.7
+TMO,Thermo Fisher Scientific Inc.,Health Care,"231,956.9",0.7,0.2,4.3,38.2,34.3,2.9,2.9,19.7,19.3,0.7,99.8,88.8,0.3
+TJX,TJX Companies Inc,Consumer Discretionary,"75,465.1",0.9,0.4,4.9,43.9,26.4,3.8,0.1,6.8,37.7,1.2,99.8,91.3,0.6
+TSCO,Tractor Supply Company,Consumer Discretionary,"21,805.7",0.9,0.3,5.3,45.3,26.5,3.8,1.9,7.8,51.5,3.3,99.5,84.7,0.4
+TT,Trane Technologies plc,Industrials,"36,759.6",1.1,0.2,4.3,29.3,34.4,2.9,2.1,10.2,8.7,0.9,99.6,82.8,0.5
+TDG,TransDigm Group Incorporated,Industrials,"36,121.6",1.5,0.3,1.5,104.6,60.1,1.7,1.5,12.6,1.6,1.9,94.4,93.1,2.9
+TRV,"Travelers Companies, Inc.",Financials,"40,060.8",0.6,0.2,,6.8,10.8,9.3,3.2,10.4,,1.7,99.7,83.6,0.0
+TRMB,Trimble Inc.,Information Technology,"17,415.3",1.5,0.3,5.4,20.4,45.0,2.2,2.6,13.5,8.9,1.4,99.6,93.1,0.3
+TFC,Truist Financial Corporation,Financials,"67,672.6",1.1,0.3,,7.9,13.1,7.6,1.7,27.8,,0.9,99.7,75.2,0.0
+TWTR,"Twitter, Inc.",Communication Services,"33,624.9",0.8,0.4,4.0,39.5,,-0.6,,-4.4,5.2,5.4,82.5,68.3,4.8
+TYL,"Tyler Technologies, Inc.",Information Technology,"16,932.8",0.9,,6.3,29.0,140.8,0.7,,10.1,8.8,1.4,98.7,91.6,0.4
+TSN,"Tyson Foods, Inc. Class A",Consumer Staples,"23,524.3",0.7,0.2,3.4,27.2,9.2,10.9,,6.5,11.0,1.7,97.3,69.2,0.4
+USB,U.S. Bancorp,Financials,"71,969.3",0.9,0.2,,7.9,11.0,9.1,2.2,35.0,,0.8,99.8,72.3,0.1
+CASH_USD,U.S. Dollar,@NA,0.0,,,,,,,,,,,,,
+UDR,"UDR, Inc.",Real Estate,"15,983.0",0.8,0.2,,52.0,124.2,0.8,26.8,11.6,0.7,1.9,99.4,97.5,
+ULTA,Ulta Beauty Inc.,Consumer Discretionary,"20,210.6",1.5,0.4,5.7,34.6,20.0,5.0,0.6,11.4,752.0,3.5,98.6,89.2,0.3
+UNP,Union Pacific Corporation,Industrials,"149,406.5",1.2,0.2,3.9,48.8,25.3,4.0,2.1,29.9,8.1,0.9,99.7,79.9,0.2
+UAL,"United Airlines Holdings, Inc.",Industrials,"12,635.2",1.3,0.5,0.3,54.7,,-13.9,,-8.0,-2.6,5.2,99.6,61.3,1.0
+UPS,"United Parcel Service, Inc. Class B",Industrials,"149,613.0",0.9,0.2,4.5,36.8,14.6,6.8,2.6,13.3,17.7,1.6,99.9,54.6,0.6
+URI,"United Rentals, Inc.",Industrials,"23,250.5",1.7,0.4,2.3,50.4,17.5,5.7,0.6,14.3,5.4,4.5,99.4,90.5,0.1
+UNH,UnitedHealth Group Incorporated,Health Care,"498,428.0",0.8,0.2,,23.3,27.8,3.6,1.9,6.0,,0.6,99.5,88.9,0.3
+UHS,"Universal Health Services, Inc. Class B",Health Care,"7,478.7",1.2,0.4,2.9,34.8,11.0,9.1,2.6,7.8,15.4,5.1,95.4,88.4,0.1
+VFC,V.F. Corporation,Consumer Discretionary,"18,324.6",1.3,0.3,2.8,51.0,16.0,6.3,1.8,10.2,12.5,4.0,94.6,84.6,0.4
+VLO,Valero Energy Corporation,Energy,"44,948.1",1.7,0.4,3.3,25.8,33.1,3.0,0.3,0.8,3.5,1.9,99.6,77.6,0.2
+VTR,"Ventas, Inc.",Real Estate,"20,604.3",1.5,0.3,,49.5,402.8,0.2,70.9,1.3,1.3,1.5,99.5,95.6,
+VRSN,"VeriSign, Inc.",Information Technology,"21,164.8",1.0,0.3,-3.1,90.1,36.3,2.8,,59.1,10.4,1.5,98.7,94.1,1.1
+VRSK,Verisk Analytics Inc,Industrials,"31,533.3",0.9,0.3,6.1,46.2,56.1,1.8,3.4,22.2,9.0,1.8,99.1,93.6,0.2
+VZ,Verizon Communications Inc.,Communication Services,"188,063.2",0.3,0.2,1.3,48.5,9.8,10.2,6.6,16.5,6.0,0.9,100.0,64.0,0.1
+VRTX,Vertex Pharmaceuticals Incorporated,Health Care,"74,721.7",0.2,0.3,12.3,7.2,24.4,4.1,2.6,30.8,45.7,1.3,99.6,92.3,3.5
+VTRS,"Viatris, Inc.",Health Care,"13,287.1",0.9,0.4,0.8,42.6,,-7.8,,-7.1,2.6,2.2,99.9,75.1,0.1
+VICI,VICI Properties Inc,Real Estate,"33,534.9",1.0,0.2,,28.4,17.1,5.8,2.3,67.2,4.4,4.9,98.9,86.2,
+V,Visa Inc. Class A,Information Technology,"345,118.9",0.9,0.3,7.6,26.1,40.6,2.5,1.5,49.8,30.9,2.0,99.6,79.7,1.2
+VNT,Vontier Corp,Information Technology,"3,891.5",1.1,,2.2,60.6,12.7,7.9,1.1,13.8,12.5,1.4,99.2,92.2,0.6
+VNO,Vornado Realty Trust,Real Estate,"5,851.1",1.4,0.3,,52.3,79.6,1.3,,11.1,0.9,9.5,86.8,66.0,
+VMC,Vulcan Materials Company,Materials,"23,337.9",0.8,0.4,3.3,33.5,41.3,2.4,1.8,12.1,6.3,1.2,99.8,92.4,0.3
+WRB,W. R. Berkley Corporation,Financials,"17,306.4",0.6,,,12.2,15.0,6.7,1.1,10.8,,1.4,78.9,67.6,0.1
+GWW,"W.W. Grainger, Inc.",Industrials,"28,811.4",1.2,0.3,8.8,41.9,25.9,3.9,1.6,8.0,22.8,2.5,89.4,72.8,0.2
+WBA,"Walgreens Boots Alliance, Inc.",Consumer Staples,"34,630.8",0.5,0.3,2.8,42.3,19.8,5.0,,1.5,8.2,3.7,82.7,58.6,0.1
+WMT,Walmart Inc.,Consumer Staples,"355,856.1",0.5,0.3,4.7,23.4,28.7,3.5,3.5,2.4,14.3,1.1,51.8,32.6,0.2
+DIS,Walt Disney Company,Communication Services,"214,370.4",1.4,0.3,2.6,28.6,161.3,0.6,0.9,3.0,2.2,1.1,99.8,64.0,0.5
+WBD,"Warner Bros. Discovery, Inc. Series A",Communication Services,"33,199.2",1.4,0.5,1.4,45.4,15.4,6.5,8.4,8.4,3.1,2.7,91.1,19.4,1.1
+WM,"Waste Management, Inc.",Industrials,"70,159.6",0.8,0.2,3.3,47.0,38.9,2.6,2.8,10.1,8.0,0.8,95.8,77.7,0.0
+WAT,Waters Corporation,Health Care,"19,856.1",0.8,0.3,10.7,51.7,33.4,3.0,2.7,24.9,18.5,2.1,99.5,91.8,0.8
+WEC,WEC Energy Group Inc,Utilities,"32,909.3",0.3,,1.2,39.2,23.6,4.2,3.7,15.7,3.3,1.4,99.9,73.9,0.0
+WFC,Wells Fargo & Company,Financials,"171,635.5",1.2,0.3,,10.2,9.7,10.3,0.9,25.2,,0.8,99.9,70.2,0.0
+WELL,Welltower Inc,Real Estate,"36,875.8",1.2,0.2,,42.0,374.5,0.3,14.5,7.1,1.7,3.0,99.9,99.2,
+WST,"West Pharmaceutical Services, Inc.",Health Care,"25,009.7",1.0,,24.4,9.8,54.1,1.8,1.4,23.4,72.3,1.2,99.4,93.3,1.3
+WDC,Western Digital Corporation,Information Technology,"15,364.0",1.1,0.4,,26.7,9.1,10.9,,8.0,9.1,2.2,98.2,83.3,0.5
+WAB,Westinghouse Air Brake Technologies Corporation,Industrials,"17,260.2",1.4,0.3,2.2,23.7,31.2,3.2,1.6,7.1,5.4,2.0,95.7,92.2,0.2
+WRK,WestRock Company,Materials,"10,696.1",0.8,0.3,1.4,30.5,15.9,6.3,0.8,4.5,3.2,1.3,98.5,90.0,0.1
+WY,Weyerhaeuser Company,Real Estate,"26,969.7",1.4,0.3,,29.6,11.9,8.4,,25.6,12.9,1.4,99.6,84.5,
+WHR,Whirlpool Corporation,Consumer Discretionary,"9,089.8",1.4,0.3,2.8,29.7,8.3,12.1,,8.1,13.4,12.9,97.5,101.1,0.4
+WMB,"Williams Companies, Inc.",Energy,"41,356.9",1.1,0.3,0.5,47.9,21.0,4.8,5.4,14.3,2.1,1.8,99.7,85.6,0.3
+WTW,Willis Towers Watson Public Limited Company,Financials,"23,802.0",0.8,,,15.7,7.3,13.8,1.0,23.7,6.7,1.9,97.8,98.4,
+WYNN,"Wynn Resorts, Limited",Consumer Discretionary,"7,835.8",2.3,0.5,0.5,96.7,,-7.8,,-20.1,-0.6,9.1,91.1,63.2,2.0
+XEL,Xcel Energy Inc.,Utilities,"40,811.0",0.4,0.2,1.0,40.9,22.9,4.4,3.5,11.9,2.5,1.1,99.9,77.9,0.1
+XYL,Xylem Inc.,Industrials,"18,223.6",1.0,0.6,4.1,33.3,51.0,2.0,2.9,8.2,6.1,1.8,99.6,93.6,1.0
+YUM,"Yum! Brands, Inc.",Consumer Discretionary,"33,566.6",1.2,0.2,2.1,203.3,26.6,3.8,2.3,23.9,4.0,1.0,99.9,68.7,0.5
+ZBRA,Zebra Technologies Corporation Class A,Information Technology,"17,401.4",1.7,0.3,8.1,18.4,38.3,2.6,0.9,14.9,56.3,1.7,99.4,87.9,0.2
+ZBH,"Zimmer Biomet Holdings, Inc.",Health Care,"24,129.3",1.1,0.5,2.7,31.4,66.6,1.5,3.1,5.1,5.8,1.1,99.9,89.5,0.1
+ZION,"Zions Bancorporation, N.A.",Financials,"8,665.3",1.2,0.3,,2.3,9.3,10.8,10.2,37.8,,1.2,98.3,81.8,0.0
+ZTS,"Zoetis, Inc. Class A",Health Care,"81,503.5",0.8,0.3,9.8,48.8,57.1,1.8,3.2,26.2,10.9,0.8,99.9,92.7,1.9
