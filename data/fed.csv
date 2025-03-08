@@ -1,5 +1,5 @@
-imestamp,Speaker,Transcript Title,Full Transcript,Source URL
-7-Mar-25,Jerome H. Powell,Economic Outlook,"Thank you, Anil. I appreciate the opportunity to speak at this forum and look forward to our discussion. I will start with some brief remarks about the economy and the path of policy.
+timestamp,speaker,title,title_id,transcript,source
+7-Mar-25,Jerome H. Powell,Economic Outlook,1,"Thank you, Anil. I appreciate the opportunity to speak at this forum and look forward to our discussion. I will start with some brief remarks about the economy and the path of policy.
 
 Despite elevated levels of uncertainty, the U.S. economy continues to be in a good place. The labor market is solid, and inflation has moved closer to our 2 percent longer-run goal. At the Federal Reserve, we are intently focused on the dual-mandate goals given to us by Congress: maximum employment and stable prices.
 
@@ -24,7 +24,7 @@ Before I conclude, I will note that at our last FOMC meeting, we began our secon
 This public review will be familiar to those who followed our process five years ago. We will hold outreach events around the country involving a wide range of parties, including Fed Listens events. We are open to new ideas and critical feedback. We will host a research conference in Washington in May. Our intent is to wrap up the review by late summer.
 
 Thank you. I look forward to your questions.",https://www.federalreserve.gov/newsevents/speech/powell20250307a.htm
-14-Nov-24,Jerome H. Powell,Economic Outlook,"Good afternoon. Thank you to the World Affairs Council, the Federal Reserve Bank of Dallas, and the Dallas Regional Chamber for the kind invitation to be with you today. I will start with some brief comments on the economy and monetary policy.
+14-Nov-24,Jerome H. Powell,Economic Outlook,2,"Good afternoon. Thank you to the World Affairs Council, the Federal Reserve Bank of Dallas, and the Dallas Regional Chamber for the kind invitation to be with you today. I will start with some brief comments on the economy and monetary policy.
 
 Looking back, the U.S. economy has weathered a global pandemic and its aftermath and is now back to a good place. The economy has made significant progress toward our dual-mandate goals of maximum employment and stable prices. The labor market remains in solid condition. Inflation has eased substantially from its peak, and we believe it is on a sustainable path to our 2 percent goal. We are committed to maintaining our economy's strength by returning inflation to our goal while supporting maximum employment.
 
